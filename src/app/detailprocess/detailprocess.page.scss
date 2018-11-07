@@ -12,14 +12,14 @@
 .datas {
     display : flex;
     flex-flow: row;
-  
+    justify-content: space-between;
     /* Then we define how is distributed the remaining space */
     justify-content: space-evenly;
 }
 .cellheader {
     font-size: 2em;
     color: black;
-    text-align: left;
+    text-align: center;
 }
 .cellobjet {
     font-size: 1em;
@@ -34,8 +34,9 @@
 .cell {
     font-size: 1em;
     color: black;
-    text-align: right;
+    text-align: center;
     font-weight: bold;
+    background-color: lightblue;
 }
 .red {
     font-size: 1em;

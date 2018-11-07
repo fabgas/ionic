@@ -15,7 +15,8 @@ const routes: Routes = [
     path: 'list',
     loadChildren: './list/list.module#ListPageModule'
   },
-  { path: 'process', loadChildren: './process/process.module#ProcessPageModule' }
+  { path: 'process', loadChildren: './process/process.module#ProcessPageModule' },
+  { path: 'detailprocess', loadChildren: './detailprocess/detailprocess.module#DetailprocessPageModule' }
 ];
 
 @NgModule({

@@ -3,6 +3,8 @@ import {ActivatedRoute} from "@angular/router";
 import { Projet } from '../list/model/projet'
 import { Process } from './model/process';
 import { ProcessService } from './service/process-service';
+import { Router} from '@angular/router';
+
 @Component({
   selector: 'app-process',
   templateUrl: './process.page.html',
@@ -11,7 +13,7 @@ import { ProcessService } from './service/process-service';
 export class ProcessPage implements OnInit {
   projet:Projet;
   processus:Process[];
-  constructor(private route: ActivatedRoute, private processService:ProcessService) {
+  constructor(private route: ActivatedRoute, private router:Router,private processService:ProcessService) {
    
   }
   ngOnInit() {
@@ -20,5 +22,9 @@ export class ProcessPage implements OnInit {
       result => this.processus = result
     );
   }
-  
+  navigate(process:Process) {
+    let ucProcessus = process.ucProcessus;
+     let llProcessus = process.llProcessus;
+    this.router.navigate(['detailprocess',{ucProcessus,llProcessus}]);
+ }
 }

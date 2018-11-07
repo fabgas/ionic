@@ -1,4 +1,4 @@
-export class Process {
+export class DetailProces {
     ucProcessus : string;
     llProcessus : string;
     ucObjet     : string;

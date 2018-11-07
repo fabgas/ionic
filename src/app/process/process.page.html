@@ -14,13 +14,22 @@
     </p>
  
     <ion-list *ngIf="processus">
-        <ion-card *ngFor="let pro of processus">
-            <ion-card-header>
-                <ion-card-title>{{pro.llProcessus}}</ion-card-title>
-            </ion-card-header>
-            <ion-card-content>
-                <p>{{pro.ucObjet}}</p>
-            </ion-card-content>
+        <ion-card *ngFor="let pro of processus" (click)="navigate(pro)">
+            <ion-card-content >
+              <div class="datas">
+                <div class="item">
+                <p class="cellheader">{{pro.llProcessus}}</p>
+                <p class="cellobjet">{{pro.ucObjet}}</p>
+              </div>
+              <div  class="item">
+                <p   [ngClass]="{'cell':true}">{{pro.heures}} h</p>
+                <p  class="cell">{{pro.volume}} obj</p>
+                <p  [ngClass]="{'cell':true,'red':pro.prod<pro.prodcible}">{{pro.prod| number:'1.0-0'}} obj/h</p>
+              </div>
+            </div> 
+ 
+
+          </ion-card-content>
         </ion-card>
       </ion-list>
 
