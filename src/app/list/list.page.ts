@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-
+import {ProjetService} from './services/projet-service';
+import { Projet} from './model/projet';
+import {Router} from '@angular/router';
 @Component({
   selector: 'app-list',
   templateUrl: 'list.page.html',
@@ -20,7 +22,8 @@ export class ListPage implements OnInit {
     'build'
   ];
   public items: Array<{ title: string; note: string; icon: string }> = [];
-  constructor() {
+  public projets=[];
+  constructor(private projetService:ProjetService, private router:Router) {
     for (let i = 1; i < 11; i++) {
       this.items.push({
         title: 'Item ' + i,
@@ -31,9 +34,17 @@ export class ListPage implements OnInit {
   }
 
   ngOnInit() {
+   
+    this.projetService.getProjets().subscribe(
+      results => { 
+        this.projets = results;
+      }
+    );
   }
   // add back when alpha.4 is out
-  // navigate(item) {
-  //   this.router.navigate(['/list', JSON.stringify(item)]);
-  // }
+   navigate(projet:Projet) {
+     let ucProjet = projet.ucProjet;
+     let llProjet = projet.llProjet;
+     this.router.navigate(['process/',{ucProjet,llProjet}]);
+  }
 }

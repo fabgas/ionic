@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-toolbar  *ngIf="projet" color="primary">
+      <ion-buttons slot="start">
+        <ion-back-button></ion-back-button>
+      </ion-buttons>
+    <ion-title >{{projet.llProjet}}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+
+    <p class="text" >
+      21 octobre 2018
+    </p>
+ 
+    <ion-list *ngIf="processus">
+        <ion-card *ngFor="let pro of processus">
+            <ion-card-header>
+                <ion-card-title>{{pro.llProcessus}}</ion-card-title>
+            </ion-card-header>
+            <ion-card-content>
+                <p>{{pro.ucObjet}}</p>
+            </ion-card-content>
+        </ion-card>
+      </ion-list>
+
+</ion-content>

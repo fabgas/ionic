@@ -1,21 +1,22 @@
+
+
 <ion-header>
   <ion-toolbar>
     <ion-buttons slot="start">
       <ion-menu-button></ion-menu-button>
     </ion-buttons>
     <ion-title>
-      List
+      Projets
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
-  <ion-list>
-    <ion-item *ngFor="let item of items">
-      <ion-icon [name]="item.icon" slot="start"></ion-icon>
-      {{item.title}}
+  <ion-list *ngIf="projets">
+    <ion-item  *ngFor="let projet of projets" (click)="navigate(projet)">
+      {{projet.llProjet}}
       <div class="item-note" slot="end">
-        {{item.note}}
+        {{projet.ucProjet}}
       </div>
     </ion-item>
   </ion-list>
