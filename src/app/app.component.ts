@@ -16,7 +16,7 @@ export class AppComponent {
       icon: 'home'
     },
     {
-      title: 'Intraday',
+      title: 'Activité',
       url: '/list',
       icon: 'list'
     }
