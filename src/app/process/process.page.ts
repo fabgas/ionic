@@ -27,4 +27,8 @@ export class ProcessPage implements OnInit {
      let llProcessus = process.llProcessus;
     this.router.navigate(['detailprocess',{ucProcessus,llProcessus}]);
  }
+ 
+ swipeEvent($event) {
+  console.log($event)
+ }
 }
