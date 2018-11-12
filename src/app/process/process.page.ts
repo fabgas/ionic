@@ -1,9 +1,8 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild,Input  } from '@angular/core';
 import {ActivatedRoute} from "@angular/router";
 import { Projet } from '../list/model/projet'
-import { Process } from './model/process';
-import { ProcessService } from './service/process-service';
-import { Router} from '@angular/router';
+import { Slides } from '@ionic/angular';
+import * as moment from 'moment';
 
 @Component({
   selector: 'app-process',
@@ -12,23 +11,39 @@ import { Router} from '@angular/router';
 })
 export class ProcessPage implements OnInit {
   projet:Projet;
-  processus:Process[];
-  constructor(private route: ActivatedRoute, private router:Router,private processService:ProcessService) {
+  dates=[];
+  slideOpts = {
+    effect: 'flip'
+  };
+  @ViewChild('slides') slides: Slides;
+
+
+ constructor(private route: ActivatedRoute) {
    
   }
   ngOnInit() {
     this.route.params.subscribe( params => this.projet = new Projet(params.ucProjet,params.llProjet) );
-    this.processService.getProcess().subscribe(
-      result => this.processus = result
-    );
+    this.dates.push(moment().startOf('day').subtract(4, "days"));
+    this.dates.push( moment().startOf('day').subtract(3, "days"));
+    this.dates.push(moment().startOf('day').subtract(2, "days"));
+    this.dates.push( moment().startOf('day').subtract(1, "days"));
+    this.dates.push(moment().startOf('day'));
+    this.dates.push( moment().startOf('day').add(1, "days"));
+    this.slides.slideTo(4);
+    
   }
-  navigate(process:Process) {
-    let ucProcessus = process.ucProcessus;
-     let llProcessus = process.llProcessus;
-    this.router.navigate(['detailprocess',{ucProcessus,llProcessus}]);
- }
+
  
  swipeEvent($event) {
   console.log($event)
+ }
+ slideChanged() {
+  console.log('slideChanged');
+ }
+ nextSlide() {
+  console.log('nextSlide');
+ }
+ prevSlide() {
+  console.log('prevSlide');
  }
 }

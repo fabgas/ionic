@@ -1,0 +1,2634 @@
+[
+  {
+    "ucOperateur": "5be6f8b6d34d110a8d2297ab",
+    "llOperateur": "Minerva Donaldson",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-3",
+    "volume": 114.7242,
+    "heures": 6.2312
+  },
+  {
+    "ucOperateur": "5be6f8b633c6b1819b616b62",
+    "llOperateur": "Jasmine Cotton",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-1",
+    "volume": 185.7211,
+    "heures": 6.037
+  },
+  {
+    "ucOperateur": "5be6f8b6a03ff0382a3db3d9",
+    "llOperateur": "Hooper Phillips",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 341.2847,
+    "heures": 8.7558
+  },
+  {
+    "ucOperateur": "5be6f8b6911574aabd4bf40d",
+    "llOperateur": "Mathews Jensen",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 354.5742,
+    "heures": 6.3375
+  },
+  {
+    "ucOperateur": "5be6f8b6f52bd4f94ec50ed5",
+    "llOperateur": "Hardin Lamb",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 424.9153,
+    "heures": 8.0654
+  },
+  {
+    "ucOperateur": "5be6f8b618aecaaeda311914",
+    "llOperateur": "House Velez",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 277.8522,
+    "heures": 7.5965
+  },
+  {
+    "ucOperateur": "5be6f8b6ea3bafaff7daeae6",
+    "llOperateur": "Hewitt Chan",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-3",
+    "volume": 86.9776,
+    "heures": 7.0283
+  },
+  {
+    "ucOperateur": "5be6f8b6d4ce3995cbe040ee",
+    "llOperateur": "Riggs Parsons",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 116.013,
+    "heures": 6.4097
+  },
+  {
+    "ucOperateur": "5be6f8b6beea0f8c224bedb3",
+    "llOperateur": "Patsy Rodriquez",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 295.7726,
+    "heures": 7.3753
+  },
+  {
+    "ucOperateur": "5be6f8b6af8c5b22ec0f4365",
+    "llOperateur": "Corina Spencer",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-1",
+    "volume": 374.6129,
+    "heures": 7.5188
+  },
+  {
+    "ucOperateur": "5be6f8b623fcca00189eccee",
+    "llOperateur": "Mable Warren",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-2",
+    "volume": 434.1946,
+    "heures": 7.8871
+  },
+  {
+    "ucOperateur": "5be6f8b6b331654e36707d4c",
+    "llOperateur": "Hoover Bernard",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 321.9318,
+    "heures": 8.6852
+  },
+  {
+    "ucOperateur": "5be6f8b6c34ae9f71c7ef7aa",
+    "llOperateur": "Gracie Reid",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 391.1944,
+    "heures": 8.8342
+  },
+  {
+    "ucOperateur": "5be6f8b65afb3a84c4302297",
+    "llOperateur": "Gabriela Kent",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 326.9918,
+    "heures": 7.6677
+  },
+  {
+    "ucOperateur": "5be6f8b64fc6901a22592146",
+    "llOperateur": "Barbara Daugherty",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-1",
+    "volume": 259.3735,
+    "heures": 6.6596
+  },
+  {
+    "ucOperateur": "5be6f8b6c2b659a0e3e7fe36",
+    "llOperateur": "Hollie Stark",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 393.0567,
+    "heures": 7.2736
+  },
+  {
+    "ucOperateur": "5be6f8b6fed5264f9b7b4c4b",
+    "llOperateur": "Marissa Chang",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 161.4634,
+    "heures": 8.1091
+  },
+  {
+    "ucOperateur": "5be6f8b68e40b35ca6100237",
+    "llOperateur": "Madeleine Riggs",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-3",
+    "volume": 208.8771,
+    "heures": 6.8898
+  },
+  {
+    "ucOperateur": "5be6f8b6d43cdf3ec8da237c",
+    "llOperateur": "Chambers Guthrie",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 198.8901,
+    "heures": 8.3627
+  },
+  {
+    "ucOperateur": "5be6f8b62a1583d255a502ea",
+    "llOperateur": "Carson Watson",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 24.7763,
+    "heures": 8.6913
+  },
+  {
+    "ucOperateur": "5be6f8b60292633b224613b5",
+    "llOperateur": "Reed Holcomb",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 30.4061,
+    "heures": 7.1784
+  },
+  {
+    "ucOperateur": "5be6f8b617ba8111505d62ab",
+    "llOperateur": "Audra Hogan",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-4",
+    "volume": 311.5387,
+    "heures": 8.5057
+  },
+  {
+    "ucOperateur": "5be6f8b69ed08c63266509a1",
+    "llOperateur": "Bryant Young",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-3",
+    "volume": 52.7357,
+    "heures": 7.0397
+  },
+  {
+    "ucOperateur": "5be6f8b6c78fdfa7ef65b6fa",
+    "llOperateur": "Casey Downs",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 182.637,
+    "heures": 6.3054
+  },
+  {
+    "ucOperateur": "5be6f8b62dcd6889ff73bf9a",
+    "llOperateur": "Liliana Patel",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 199.8028,
+    "heures": 7.9253
+  },
+  {
+    "ucOperateur": "5be6f8b6e43124f29eddab93",
+    "llOperateur": "Nora Hendrix",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-1",
+    "volume": 22.0497,
+    "heures": 7.0822
+  },
+  {
+    "ucOperateur": "5be6f8b6bbea02bb764edf68",
+    "llOperateur": "Elvia Sherman",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 311.2574,
+    "heures": 8.9016
+  },
+  {
+    "ucOperateur": "5be6f8b63d7c0dfe9537d9ce",
+    "llOperateur": "Sheppard Lowery",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 436.2917,
+    "heures": 8.6588
+  },
+  {
+    "ucOperateur": "5be6f8b654874c9a40a03a54",
+    "llOperateur": "Holmes Orr",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 376.1214,
+    "heures": 6.1476
+  },
+  {
+    "ucOperateur": "5be6f8b6a032bdbb357f3807",
+    "llOperateur": "Gayle Cook",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 450.5122,
+    "heures": 8.1748
+  },
+  {
+    "ucOperateur": "5be6f8b63a522e621e055381",
+    "llOperateur": "Angela William",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 293.7037,
+    "heures": 8.0171
+  },
+  {
+    "ucOperateur": "5be6f8b68ca3dcfe71444819",
+    "llOperateur": "Kline Sloan",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 150.9124,
+    "heures": 7.6198
+  },
+  {
+    "ucOperateur": "5be6f8b66ee73a148dd8c692",
+    "llOperateur": "Sara Foster",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 187.1396,
+    "heures": 8.9391
+  },
+  {
+    "ucOperateur": "5be6f8b6b6f4c82865c64264",
+    "llOperateur": "Boyer Everett",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 427.7817,
+    "heures": 8.1672
+  },
+  {
+    "ucOperateur": "5be6f8b60bc6d47b8611c2b4",
+    "llOperateur": "Ola Wilkins",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 96.8215,
+    "heures": 6.1599
+  },
+  {
+    "ucOperateur": "5be6f8b6b26422986783277e",
+    "llOperateur": "Love Wilson",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 281.1239,
+    "heures": 6.0334
+  },
+  {
+    "ucOperateur": "5be6f8b64c8f236bfb96a6b1",
+    "llOperateur": "Natalie Lucas",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 53.6918,
+    "heures": 7.6521
+  },
+  {
+    "ucOperateur": "5be6f8b60261054cb275c101",
+    "llOperateur": "Cruz Mccormick",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 369.6168,
+    "heures": 7.345
+  },
+  {
+    "ucOperateur": "5be6f8b627e904e5226db4ea",
+    "llOperateur": "Adela Jackson",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 260.8817,
+    "heures": 7.0684
+  },
+  {
+    "ucOperateur": "5be6f8b6de8f881058c20fbe",
+    "llOperateur": "Cabrera Jarvis",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 332.963,
+    "heures": 7.7479
+  },
+  {
+    "ucOperateur": "5be6f8b654fe9bd31793ac66",
+    "llOperateur": "Barber Barron",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 324.441,
+    "heures": 7.2892
+  },
+  {
+    "ucOperateur": "5be6f8b62b7de76924161b31",
+    "llOperateur": "Georgia Henson",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 187.1057,
+    "heures": 8.5364
+  },
+  {
+    "ucOperateur": "5be6f8b647795ab5c43c09a0",
+    "llOperateur": "Rivera Perry",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 363.3678,
+    "heures": 6.4931
+  },
+  {
+    "ucOperateur": "5be6f8b6312c04f52f7c6e3d",
+    "llOperateur": "Carolina Aguirre",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 455.9463,
+    "heures": 6.5352
+  },
+  {
+    "ucOperateur": "5be6f8b61b3110e7ffe1867b",
+    "llOperateur": "Gray Mack",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-2",
+    "volume": 153.9201,
+    "heures": 7.0183
+  },
+  {
+    "ucOperateur": "5be6f8b6789293f758929198",
+    "llOperateur": "Sarah Sears",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 150.8324,
+    "heures": 6.1567
+  },
+  {
+    "ucOperateur": "5be6f8b6efef299db920028a",
+    "llOperateur": "Murray Randolph",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 499.9064,
+    "heures": 7.2241
+  },
+  {
+    "ucOperateur": "5be6f8b6d498afd49df17557",
+    "llOperateur": "Jennie Sandoval",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 137.0197,
+    "heures": 7.2804
+  },
+  {
+    "ucOperateur": "5be6f8b63eb56995e57dac02",
+    "llOperateur": "Crawford Dodson",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 95.8987,
+    "heures": 7.7466
+  },
+  {
+    "ucOperateur": "5be6f8b69b4f4f5b6d4ba46d",
+    "llOperateur": "Sondra Bird",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-1",
+    "volume": 420.7548,
+    "heures": 7.7333
+  },
+  {
+    "ucOperateur": "5be6f8b6533a0dace817e8ed",
+    "llOperateur": "Diann Bartlett",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 371.0467,
+    "heures": 6.6228
+  },
+  {
+    "ucOperateur": "5be6f8b6ab595ba1d77a0c66",
+    "llOperateur": "Shanna Cline",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 126.3421,
+    "heures": 8.2777
+  },
+  {
+    "ucOperateur": "5be6f8b6e92ea7ccb5ea957c",
+    "llOperateur": "Contreras Miles",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-4",
+    "volume": 136.2264,
+    "heures": 7.4097
+  },
+  {
+    "ucOperateur": "5be6f8b65dec713f57f737c2",
+    "llOperateur": "Hickman Terrell",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 151.4776,
+    "heures": 6.1455
+  },
+  {
+    "ucOperateur": "5be6f8b67f85926b25453eed",
+    "llOperateur": "Pickett Berger",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 212.8918,
+    "heures": 8.4933
+  },
+  {
+    "ucOperateur": "5be6f8b6defd6c12444e6201",
+    "llOperateur": "Landry Holmes",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 303.0424,
+    "heures": 8.3821
+  },
+  {
+    "ucOperateur": "5be6f8b6e8f47d7ccdb66609",
+    "llOperateur": "Leola Mcmillan",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-3",
+    "volume": 296.2181,
+    "heures": 8.0594
+  },
+  {
+    "ucOperateur": "5be6f8b640d118f35a93e88c",
+    "llOperateur": "Hillary Jones",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 331.8019,
+    "heures": 8.7663
+  },
+  {
+    "ucOperateur": "5be6f8b651c3b7cbae223026",
+    "llOperateur": "Cook Torres",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-1",
+    "volume": 388.8621,
+    "heures": 8.0091
+  },
+  {
+    "ucOperateur": "5be6f8b6dd84f20e91af7f02",
+    "llOperateur": "Hunter Stanton",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 224.1995,
+    "heures": 6.6125
+  },
+  {
+    "ucOperateur": "5be6f8b63440059962897691",
+    "llOperateur": "Twila Walton",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 253.8644,
+    "heures": 8.3499
+  },
+  {
+    "ucOperateur": "5be6f8b677b1c9414443c885",
+    "llOperateur": "Alison Glass",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 389.8834,
+    "heures": 8.3595
+  },
+  {
+    "ucOperateur": "5be6f8b6822820a3ce948ab4",
+    "llOperateur": "Mack Brennan",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 479.0898,
+    "heures": 6.1945
+  },
+  {
+    "ucOperateur": "5be6f8b6e2ae1c3257845b90",
+    "llOperateur": "Simmons Howell",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 385.615,
+    "heures": 8.4434
+  },
+  {
+    "ucOperateur": "5be6f8b631ce24bebb7aff75",
+    "llOperateur": "Cheryl Solomon",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 233.8698,
+    "heures": 8.9034
+  },
+  {
+    "ucOperateur": "5be6f8b64e64f212e63b57d7",
+    "llOperateur": "Laverne Weber",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 312.359,
+    "heures": 8.8219
+  },
+  {
+    "ucOperateur": "5be6f8b6c6b5c506e9d39da9",
+    "llOperateur": "Marian Cooper",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 458.4139,
+    "heures": 8.5211
+  },
+  {
+    "ucOperateur": "5be6f8b6e8f4838d142b8737",
+    "llOperateur": "Fannie Stout",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 276.5703,
+    "heures": 8.9811
+  },
+  {
+    "ucOperateur": "5be6f8b653e4a990017f4f4b",
+    "llOperateur": "Workman Cox",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 97.9478,
+    "heures": 7.4577
+  },
+  {
+    "ucOperateur": "5be6f8b69639423e246eb8bc",
+    "llOperateur": "Mattie Simmons",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 289.6439,
+    "heures": 8.0437
+  },
+  {
+    "ucOperateur": "5be6f8b6a4a87f0a44ad18bb",
+    "llOperateur": "Dennis Bauer",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 191.9761,
+    "heures": 6.0737
+  },
+  {
+    "ucOperateur": "5be6f8b6deb642b5c62b64ef",
+    "llOperateur": "Juanita Preston",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 339.4027,
+    "heures": 8.8284
+  },
+  {
+    "ucOperateur": "5be6f8b64a3c3874a89e7131",
+    "llOperateur": "Albert Gentry",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-3",
+    "volume": 439.5843,
+    "heures": 7.1958
+  },
+  {
+    "ucOperateur": "5be6f8b6f05611f8ff0e34d9",
+    "llOperateur": "Susanne Page",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 375.7112,
+    "heures": 6.8699
+  },
+  {
+    "ucOperateur": "5be6f8b640a0fd7c1d9144ae",
+    "llOperateur": "Berger Singleton",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 489.3375,
+    "heures": 8.5234
+  },
+  {
+    "ucOperateur": "5be6f8b64e07aec27eaa18f6",
+    "llOperateur": "Coleen Steele",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-3",
+    "volume": 172.2264,
+    "heures": 7.6692
+  },
+  {
+    "ucOperateur": "5be6f8b68636751ff309da0b",
+    "llOperateur": "Caroline Clemons",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-3",
+    "volume": 134.533,
+    "heures": 7.3446
+  },
+  {
+    "ucOperateur": "5be6f8b657e958d99bdb7457",
+    "llOperateur": "Cobb Hensley",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-3",
+    "volume": 152.731,
+    "heures": 8.4859
+  },
+  {
+    "ucOperateur": "5be6f8b65f676da24e241e16",
+    "llOperateur": "Doyle Daniel",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 281.5832,
+    "heures": 6.5672
+  },
+  {
+    "ucOperateur": "5be6f8b6fb7e922521cf7398",
+    "llOperateur": "Hayes Velasquez",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 351.2278,
+    "heures": 6.8897
+  },
+  {
+    "ucOperateur": "5be6f8b629017b52219e8f23",
+    "llOperateur": "Sophie Small",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-2",
+    "volume": 322.7856,
+    "heures": 8.4982
+  },
+  {
+    "ucOperateur": "5be6f8b6965ca244fa51b883",
+    "llOperateur": "Brennan Baxter",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 440.8362,
+    "heures": 8.4972
+  },
+  {
+    "ucOperateur": "5be6f8b60e97d73c3353fd57",
+    "llOperateur": "Stevens Chandler",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 69.2837,
+    "heures": 6.0353
+  },
+  {
+    "ucOperateur": "5be6f8b6f288e6d36014cb84",
+    "llOperateur": "Burton Chambers",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 262.6502,
+    "heures": 7.7842
+  },
+  {
+    "ucOperateur": "5be6f8b61ec8fc6d62157fdc",
+    "llOperateur": "Stafford Soto",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 488.9975,
+    "heures": 6.4275
+  },
+  {
+    "ucOperateur": "5be6f8b6183e9e32c6b71399",
+    "llOperateur": "Elsie Francis",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 407.0007,
+    "heures": 7.2988
+  },
+  {
+    "ucOperateur": "5be6f8b68e8ff458fbcab7c6",
+    "llOperateur": "Rachael Wise",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-3",
+    "volume": 365.5142,
+    "heures": 7.0518
+  },
+  {
+    "ucOperateur": "5be6f8b60ad5c3cd4154d653",
+    "llOperateur": "Serrano Wilcox",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 117.5555,
+    "heures": 8.7977
+  },
+  {
+    "ucOperateur": "5be6f8b6eb0918a5d3f8a0f8",
+    "llOperateur": "Mullins Delaney",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-4",
+    "volume": 463.0053,
+    "heures": 8.9374
+  },
+  {
+    "ucOperateur": "5be6f8b6a880f8e5c11487df",
+    "llOperateur": "Stanley Powers",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 71.453,
+    "heures": 8.3402
+  },
+  {
+    "ucOperateur": "5be6f8b663bee0d51871aad9",
+    "llOperateur": "Jaime Mcfadden",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 311.7899,
+    "heures": 6.9447
+  },
+  {
+    "ucOperateur": "5be6f8b6a6aa68e0c0883f71",
+    "llOperateur": "Glover Dejesus",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 299.5524,
+    "heures": 6.4696
+  },
+  {
+    "ucOperateur": "5be6f8b62e99a59da256632e",
+    "llOperateur": "Harriet Reilly",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 274.2885,
+    "heures": 6.8894
+  },
+  {
+    "ucOperateur": "5be6f8b62a64be586c22c0a7",
+    "llOperateur": "Billie Wiggins",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 369.1506,
+    "heures": 6.4948
+  },
+  {
+    "ucOperateur": "5be6f8b6766080ff59ef9339",
+    "llOperateur": "Hattie Barker",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-4",
+    "volume": 179.9935,
+    "heures": 6.8884
+  },
+  {
+    "ucOperateur": "5be6f8b61a7c11f7271d625b",
+    "llOperateur": "Jodie Mcclure",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 212.4985,
+    "heures": 8.6776
+  },
+  {
+    "ucOperateur": "5be6f8b677164e49951dd849",
+    "llOperateur": "Jeanette Harvey",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-1",
+    "volume": 401.2308,
+    "heures": 6.7313
+  },
+  {
+    "ucOperateur": "5be6f8b63d108c351fc80207",
+    "llOperateur": "Melisa Johnston",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-4",
+    "volume": 332.2858,
+    "heures": 7.6539
+  },
+  {
+    "ucOperateur": "5be6f8b6bf010b8c781dff96",
+    "llOperateur": "Christina Benjamin",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 55.7286,
+    "heures": 7.3253
+  },
+  {
+    "ucOperateur": "5be6f8b6880835b582aa0eb0",
+    "llOperateur": "Sadie Barry",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 66.5332,
+    "heures": 8.0234
+  },
+  {
+    "ucOperateur": "5be6f8b6360aba9fd34f5cfd",
+    "llOperateur": "Holder English",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 279.4659,
+    "heures": 6.1035
+  },
+  {
+    "ucOperateur": "5be6f8b6208bb27e35ff9ac0",
+    "llOperateur": "Lamb Good",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 482.168,
+    "heures": 8.7036
+  },
+  {
+    "ucOperateur": "5be6f8b69274b4015bf70050",
+    "llOperateur": "Hinton Charles",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 430.2566,
+    "heures": 8.5245
+  },
+  {
+    "ucOperateur": "5be6f8b67102bbde91bfed9d",
+    "llOperateur": "Bishop Richard",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-4",
+    "volume": 133.9945,
+    "heures": 7.6854
+  },
+  {
+    "ucOperateur": "5be6f8b688b85faf57ded5f7",
+    "llOperateur": "Sampson Spears",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 100.2804,
+    "heures": 8.7058
+  },
+  {
+    "ucOperateur": "5be6f8b621c9e95eb392cd70",
+    "llOperateur": "Tracie Mejia",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 81.7427,
+    "heures": 8.8873
+  },
+  {
+    "ucOperateur": "5be6f8b6e7aa06a76f728773",
+    "llOperateur": "Cooley Alexander",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 272.3933,
+    "heures": 6.5225
+  },
+  {
+    "ucOperateur": "5be6f8b64f759e0f581e684e",
+    "llOperateur": "John Mercer",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 446.368,
+    "heures": 6.6425
+  },
+  {
+    "ucOperateur": "5be6f8b656494037bae5818e",
+    "llOperateur": "Brigitte Chase",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 317.0724,
+    "heures": 7.9581
+  },
+  {
+    "ucOperateur": "5be6f8b6cacb3e667478a8f7",
+    "llOperateur": "Effie Lindsay",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-1",
+    "volume": 83.9421,
+    "heures": 8.0016
+  },
+  {
+    "ucOperateur": "5be6f8b6b474a0ec1e386cd3",
+    "llOperateur": "Cohen Vega",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 89.2736,
+    "heures": 8.0271
+  },
+  {
+    "ucOperateur": "5be6f8b640c184c026d1bf3b",
+    "llOperateur": "Flossie Foley",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 235.7427,
+    "heures": 8.8791
+  },
+  {
+    "ucOperateur": "5be6f8b6c51065cd0020eeca",
+    "llOperateur": "Mayo Todd",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 473.0188,
+    "heures": 7.0083
+  },
+  {
+    "ucOperateur": "5be6f8b64fd84fe178f1fe8d",
+    "llOperateur": "Bender Gomez",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 238.3636,
+    "heures": 6.449
+  },
+  {
+    "ucOperateur": "5be6f8b6285b73c72ac42195",
+    "llOperateur": "Hamilton Mcgowan",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 472.1125,
+    "heures": 7.8172
+  },
+  {
+    "ucOperateur": "5be6f8b676e2a01d6014f77e",
+    "llOperateur": "Cassie Reed",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-1",
+    "volume": 29.23,
+    "heures": 6.9675
+  },
+  {
+    "ucOperateur": "5be6f8b6737b852a0c1ddb5b",
+    "llOperateur": "Carroll Ayala",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-4",
+    "volume": 272.4438,
+    "heures": 7.3136
+  },
+  {
+    "ucOperateur": "5be6f8b6279f366afab395ae",
+    "llOperateur": "Suzanne Calderon",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-2",
+    "volume": 64.0528,
+    "heures": 7.5953
+  },
+  {
+    "ucOperateur": "5be6f8b67114d85094b849e1",
+    "llOperateur": "Peters Potts",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-2",
+    "volume": 343.6988,
+    "heures": 8
+  },
+  {
+    "ucOperateur": "5be6f8b6bcfbaefe8bcf3e3f",
+    "llOperateur": "Short Grant",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 412.4937,
+    "heures": 8.5814
+  },
+  {
+    "ucOperateur": "5be6f8b6099bd2162b9087c5",
+    "llOperateur": "Nicole Bates",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 87.4308,
+    "heures": 7.4096
+  },
+  {
+    "ucOperateur": "5be6f8b641998b0e012519a8",
+    "llOperateur": "Rasmussen Roman",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 405.1886,
+    "heures": 8.5995
+  },
+  {
+    "ucOperateur": "5be6f8b6ed70c5ec6b1fc042",
+    "llOperateur": "Bradley Wood",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 248.7044,
+    "heures": 7.7223
+  },
+  {
+    "ucOperateur": "5be6f8b623da56bd8a9522e6",
+    "llOperateur": "Catalina Waters",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-2",
+    "volume": 61.6567,
+    "heures": 7.0706
+  },
+  {
+    "ucOperateur": "5be6f8b64a429a4754cec580",
+    "llOperateur": "Chang Melton",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-4",
+    "volume": 141.9036,
+    "heures": 6.4807
+  },
+  {
+    "ucOperateur": "5be6f8b6f80f94e6ff207b17",
+    "llOperateur": "Reid Owen",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-4",
+    "volume": 258.201,
+    "heures": 7.3757
+  },
+  {
+    "ucOperateur": "5be6f8b6ebab5cb4391bbd3e",
+    "llOperateur": "Mcclure Sampson",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 232.3958,
+    "heures": 8.1323
+  },
+  {
+    "ucOperateur": "5be6f8b693147ce525205d51",
+    "llOperateur": "Gonzales Petersen",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-4",
+    "volume": 447.3171,
+    "heures": 7.1953
+  },
+  {
+    "ucOperateur": "5be6f8b6a211cfc8cce6899e",
+    "llOperateur": "Theresa Buck",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-3",
+    "volume": 215.1887,
+    "heures": 6.6974
+  },
+  {
+    "ucOperateur": "5be6f8b654a43e8af0beb51d",
+    "llOperateur": "Aurora Walls",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 314.1935,
+    "heures": 8.7893
+  },
+  {
+    "ucOperateur": "5be6f8b656f27e0658bad128",
+    "llOperateur": "Gilda Oconnor",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 175.8698,
+    "heures": 8.0092
+  },
+  {
+    "ucOperateur": "5be6f8b6f8b2d29eb9e73aec",
+    "llOperateur": "Corine Osborn",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-1",
+    "volume": 481.5372,
+    "heures": 6.3171
+  },
+  {
+    "ucOperateur": "5be6f8b6f6a471a85f61e26d",
+    "llOperateur": "Pam Durham",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-1",
+    "volume": 414.3508,
+    "heures": 8.7477
+  },
+  {
+    "ucOperateur": "5be6f8b6d77d410e8f6d2c80",
+    "llOperateur": "Austin Dixon",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 261.2516,
+    "heures": 8.4139
+  },
+  {
+    "ucOperateur": "5be6f8b6f008b0b2be5792e6",
+    "llOperateur": "Mathis Goff",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 331.1233,
+    "heures": 7.389
+  },
+  {
+    "ucOperateur": "5be6f8b6c5ec9a261201e338",
+    "llOperateur": "Rhoda Kelley",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 84.5718,
+    "heures": 8.8548
+  },
+  {
+    "ucOperateur": "5be6f8b612f6f695a8c51a60",
+    "llOperateur": "Aguirre Murphy",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 156.4643,
+    "heures": 6.6211
+  },
+  {
+    "ucOperateur": "5be6f8b62872c86a22fe878c",
+    "llOperateur": "Holland Beasley",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 351.0254,
+    "heures": 8.3079
+  },
+  {
+    "ucOperateur": "5be6f8b6111a32e9398c2913",
+    "llOperateur": "Baldwin Burt",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-4",
+    "volume": 369.693,
+    "heures": 7.3274
+  },
+  {
+    "ucOperateur": "5be6f8b6a049714a7773402d",
+    "llOperateur": "Browning Hewitt",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-1",
+    "volume": 313.4133,
+    "heures": 8.8701
+  },
+  {
+    "ucOperateur": "5be6f8b6ad05d1c7b829bd3d",
+    "llOperateur": "Eddie Wynn",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-3",
+    "volume": 467.8012,
+    "heures": 7.3614
+  },
+  {
+    "ucOperateur": "5be6f8b60d29e54bf6e4224f",
+    "llOperateur": "Middleton Cameron",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-4",
+    "volume": 42.129,
+    "heures": 8.5617
+  },
+  {
+    "ucOperateur": "5be6f8b6e28b58743d2f0fa3",
+    "llOperateur": "Rosanne Winters",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 83.6571,
+    "heures": 7.6762
+  },
+  {
+    "ucOperateur": "5be6f8b6ce5efa14efb80386",
+    "llOperateur": "Hoffman Hughes",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 29.0461,
+    "heures": 8.3407
+  },
+  {
+    "ucOperateur": "5be6f8b6a2dda7b594f88143",
+    "llOperateur": "Powell Abbott",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 462.1664,
+    "heures": 8.4405
+  },
+  {
+    "ucOperateur": "5be6f8b63578bdb5081d819e",
+    "llOperateur": "Camacho Meadows",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 304.7651,
+    "heures": 8.5303
+  },
+  {
+    "ucOperateur": "5be6f8b606f465567b07e037",
+    "llOperateur": "Roberts Pruitt",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 432.8044,
+    "heures": 8.8118
+  },
+  {
+    "ucOperateur": "5be6f8b6f28d9405f6c6f9d4",
+    "llOperateur": "Shelia Moore",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 475.6028,
+    "heures": 7.1054
+  },
+  {
+    "ucOperateur": "5be6f8b6077dc8f221aeea0a",
+    "llOperateur": "Amanda Pratt",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 110.7672,
+    "heures": 8.9421
+  },
+  {
+    "ucOperateur": "5be6f8b68c8fe9f3c0f3a40b",
+    "llOperateur": "Callie Hill",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 246.6427,
+    "heures": 7.568
+  },
+  {
+    "ucOperateur": "5be6f8b6c44e2125d02468b4",
+    "llOperateur": "Mitchell Odom",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 262.2151,
+    "heures": 8.7534
+  },
+  {
+    "ucOperateur": "5be6f8b6a722fd1e5870eaa3",
+    "llOperateur": "Gardner Frost",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-1",
+    "volume": 306.9886,
+    "heures": 8.277
+  },
+  {
+    "ucOperateur": "5be6f8b6820cf4bccd131768",
+    "llOperateur": "Monroe Holloway",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-4",
+    "volume": 453.0722,
+    "heures": 8.1887
+  },
+  {
+    "ucOperateur": "5be6f8b6332c09ae2f8ae80d",
+    "llOperateur": "Brandie Huber",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 412.0875,
+    "heures": 8.9878
+  },
+  {
+    "ucOperateur": "5be6f8b6f4543bad9bae32f0",
+    "llOperateur": "Barry Best",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 493.689,
+    "heures": 7.4032
+  },
+  {
+    "ucOperateur": "5be6f8b6239416c78c2a7fb7",
+    "llOperateur": "Linda Mayo",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 495.5071,
+    "heures": 6.6599
+  },
+  {
+    "ucOperateur": "5be6f8b6b324320610e6ea86",
+    "llOperateur": "Marva Coffey",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-4",
+    "volume": 489.1785,
+    "heures": 8.6753
+  },
+  {
+    "ucOperateur": "5be6f8b6af01a6e57d9cd614",
+    "llOperateur": "Harper Paul",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 71.3062,
+    "heures": 6.6729
+  },
+  {
+    "ucOperateur": "5be6f8b6a5f9283440342585",
+    "llOperateur": "Taylor Kim",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-1",
+    "volume": 262.3227,
+    "heures": 7.7918
+  },
+  {
+    "ucOperateur": "5be6f8b6f6d28007b54c9cfe",
+    "llOperateur": "Dickson Perkins",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 467.6386,
+    "heures": 8.3928
+  },
+  {
+    "ucOperateur": "5be6f8b668a28d033146aff2",
+    "llOperateur": "Marta Kennedy",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-4",
+    "volume": 157.5497,
+    "heures": 8.8533
+  },
+  {
+    "ucOperateur": "5be6f8b67e03c76037895bf7",
+    "llOperateur": "Barnett Dunlap",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-3",
+    "volume": 393.1242,
+    "heures": 6.3465
+  },
+  {
+    "ucOperateur": "5be6f8b6ca636ed8eb999bcb",
+    "llOperateur": "Kelly Mccarty",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 455.6456,
+    "heures": 8.8955
+  },
+  {
+    "ucOperateur": "5be6f8b66ebeca5e711cf073",
+    "llOperateur": "Sylvia House",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-1",
+    "volume": 155.0861,
+    "heures": 8.5097
+  },
+  {
+    "ucOperateur": "5be6f8b6fea7b3efa1228567",
+    "llOperateur": "Edith Chapman",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 171.9811,
+    "heures": 8.1258
+  },
+  {
+    "ucOperateur": "5be6f8b6b9fd606b7411bdc8",
+    "llOperateur": "Britney Contreras",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 375.881,
+    "heures": 6.4101
+  },
+  {
+    "ucOperateur": "5be6f8b6fa1ac2d3ec3a2fc3",
+    "llOperateur": "Orr Forbes",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 288.4052,
+    "heures": 6.1844
+  },
+  {
+    "ucOperateur": "5be6f8b6e404e3b4895b2b77",
+    "llOperateur": "Hubbard Middleton",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 395.9911,
+    "heures": 8.8371
+  },
+  {
+    "ucOperateur": "5be6f8b6bc2b932df6a3b752",
+    "llOperateur": "Manuela Holland",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 475.7923,
+    "heures": 6.2535
+  },
+  {
+    "ucOperateur": "5be6f8b64004853bf0e72da4",
+    "llOperateur": "Fowler Snider",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 369.9137,
+    "heures": 7.3397
+  },
+  {
+    "ucOperateur": "5be6f8b6466c75af5fc8e7d9",
+    "llOperateur": "Tiffany Ramsey",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-1",
+    "volume": 370.9946,
+    "heures": 6.3106
+  },
+  {
+    "ucOperateur": "5be6f8b6e221f245310d1c81",
+    "llOperateur": "Fletcher Delgado",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 22.2537,
+    "heures": 8.936
+  },
+  {
+    "ucOperateur": "5be6f8b6171fdbc085d7b0d6",
+    "llOperateur": "Lois Marquez",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 461.9387,
+    "heures": 8.3678
+  },
+  {
+    "ucOperateur": "5be6f8b6c4a666b93ea15936",
+    "llOperateur": "Valentine Bush",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 176.888,
+    "heures": 7.9995
+  },
+  {
+    "ucOperateur": "5be6f8b658abf6269144476a",
+    "llOperateur": "Haney Franklin",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 368.2943,
+    "heures": 6.8354
+  },
+  {
+    "ucOperateur": "5be6f8b693259354ce54f660",
+    "llOperateur": "Nellie Clarke",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 320.9623,
+    "heures": 6.0996
+  },
+  {
+    "ucOperateur": "5be6f8b68c8bda9c0957c330",
+    "llOperateur": "Aguilar Obrien",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-4",
+    "volume": 199.5316,
+    "heures": 8.237
+  },
+  {
+    "ucOperateur": "5be6f8b6361476c2dded1c2c",
+    "llOperateur": "Rosetta Serrano",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 110.1209,
+    "heures": 8.0345
+  },
+  {
+    "ucOperateur": "5be6f8b62ad13b917df8678b",
+    "llOperateur": "Young Brooks",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 245.8039,
+    "heures": 8.8832
+  },
+  {
+    "ucOperateur": "5be6f8b618f4fb14b56ea6cc",
+    "llOperateur": "Ellis Atkinson",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 403.549,
+    "heures": 7.6803
+  },
+  {
+    "ucOperateur": "5be6f8b6ccd3ed64df6adcd4",
+    "llOperateur": "Walters Clements",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 29.3879,
+    "heures": 8.5295
+  },
+  {
+    "ucOperateur": "5be6f8b6e550e5b5ba15be34",
+    "llOperateur": "Aisha Sparks",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 252.3197,
+    "heures": 8.0258
+  },
+  {
+    "ucOperateur": "5be6f8b67e9d002400cc144e",
+    "llOperateur": "Lara Sharpe",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 475.2753,
+    "heures": 8.7768
+  },
+  {
+    "ucOperateur": "5be6f8b6caeb06c7289377d0",
+    "llOperateur": "Johns Jenkins",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-1",
+    "volume": 440.8494,
+    "heures": 8.667
+  },
+  {
+    "ucOperateur": "5be6f8b61867fb5384c6d267",
+    "llOperateur": "Latisha Ware",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 66.9623,
+    "heures": 7.4249
+  },
+  {
+    "ucOperateur": "5be6f8b6c32397417367020c",
+    "llOperateur": "Loraine Atkins",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 339.1413,
+    "heures": 7.4647
+  },
+  {
+    "ucOperateur": "5be6f8b693efd94ffe453266",
+    "llOperateur": "Zamora Freeman",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 423.6606,
+    "heures": 7.6066
+  },
+  {
+    "ucOperateur": "5be6f8b6186ae6be3efc1dd9",
+    "llOperateur": "Viola Avila",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 49.3809,
+    "heures": 6.0072
+  },
+  {
+    "ucOperateur": "5be6f8b6c68b0add0462bc3f",
+    "llOperateur": "Avis Schultz",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 342.279,
+    "heures": 7.356
+  },
+  {
+    "ucOperateur": "5be6f8b6d6bb3f34be93cd08",
+    "llOperateur": "Welch Morales",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-3",
+    "volume": 342.0544,
+    "heures": 8.6862
+  },
+  {
+    "ucOperateur": "5be6f8b6cab2117b4030bcbf",
+    "llOperateur": "Mcconnell Rowland",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 147.5017,
+    "heures": 6.2863
+  },
+  {
+    "ucOperateur": "5be6f8b6c61e076ee94732bc",
+    "llOperateur": "Elinor Davenport",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 330.1721,
+    "heures": 7.7308
+  },
+  {
+    "ucOperateur": "5be6f8b61e96f7b4b55095ec",
+    "llOperateur": "Silvia Nolan",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-1",
+    "volume": 371.9796,
+    "heures": 8.796
+  },
+  {
+    "ucOperateur": "5be6f8b6997056663677839f",
+    "llOperateur": "Marietta Collier",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 302.8719,
+    "heures": 8.1138
+  },
+  {
+    "ucOperateur": "5be6f8b6668a902ec6c55077",
+    "llOperateur": "Rich Cooke",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 365.4302,
+    "heures": 7.6134
+  },
+  {
+    "ucOperateur": "5be6f8b6c11b381ef3426ed2",
+    "llOperateur": "Heidi Cain",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 373.3061,
+    "heures": 6.7468
+  },
+  {
+    "ucOperateur": "5be6f8b6b4077df9613e9ccc",
+    "llOperateur": "Lynn Welch",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 477.5279,
+    "heures": 8.277
+  },
+  {
+    "ucOperateur": "5be6f8b63eb6f015d02b3afa",
+    "llOperateur": "Elva Kidd",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 210.0691,
+    "heures": 6.4423
+  },
+  {
+    "ucOperateur": "5be6f8b6830c0ccd1be68bc5",
+    "llOperateur": "Delia Willis",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 462.5091,
+    "heures": 7.7493
+  },
+  {
+    "ucOperateur": "5be6f8b63728312dc3b68c9b",
+    "llOperateur": "Elise Herman",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 67.4705,
+    "heures": 6.9527
+  },
+  {
+    "ucOperateur": "5be6f8b65b0633217bb9481a",
+    "llOperateur": "Sherry Adams",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 163.9097,
+    "heures": 8.3812
+  },
+  {
+    "ucOperateur": "5be6f8b64fa6aff7e2f3d0c9",
+    "llOperateur": "Esmeralda Houston",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-3",
+    "volume": 104.9274,
+    "heures": 6.5991
+  },
+  {
+    "ucOperateur": "5be6f8b67a85c03fcff2f785",
+    "llOperateur": "Clara Bullock",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 426.5767,
+    "heures": 7.753
+  },
+  {
+    "ucOperateur": "5be6f8b68e436316549c45a3",
+    "llOperateur": "Richmond Blevins",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 313.794,
+    "heures": 7.7338
+  },
+  {
+    "ucOperateur": "5be6f8b68cbd7c69c5ec1cf6",
+    "llOperateur": "Dunlap Davidson",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-2",
+    "volume": 145.2899,
+    "heures": 8.2299
+  },
+  {
+    "ucOperateur": "5be6f8b6b5b6ff279f79ec88",
+    "llOperateur": "Emily Doyle",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-4",
+    "volume": 457.7575,
+    "heures": 8.0208
+  },
+  {
+    "ucOperateur": "5be6f8b62fe9542fb51c3ce9",
+    "llOperateur": "Turner Berry",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 394.6959,
+    "heures": 8.1249
+  },
+  {
+    "ucOperateur": "5be6f8b6520cc2fdf7905abe",
+    "llOperateur": "Flynn Schneider",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 75.9075,
+    "heures": 8.6429
+  },
+  {
+    "ucOperateur": "5be6f8b60fc7cf170a25d477",
+    "llOperateur": "Dorothy Griffin",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-1",
+    "volume": 120.0867,
+    "heures": 8.9193
+  },
+  {
+    "ucOperateur": "5be6f8b660862acaa2ec36ad",
+    "llOperateur": "Leonor Ortiz",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 450.7817,
+    "heures": 6.1952
+  },
+  {
+    "ucOperateur": "5be6f8b6c0b5ea4d3708156d",
+    "llOperateur": "Becker Christian",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-1",
+    "volume": 490.0513,
+    "heures": 7.9854
+  },
+  {
+    "ucOperateur": "5be6f8b62dea9f0deffde65b",
+    "llOperateur": "Coleman Vance",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 119.8672,
+    "heures": 7.1288
+  },
+  {
+    "ucOperateur": "5be6f8b65374ab877708abff",
+    "llOperateur": "Foley Christensen",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 328.7327,
+    "heures": 8.4446
+  },
+  {
+    "ucOperateur": "5be6f8b61e4816d319a85feb",
+    "llOperateur": "Daphne Parks",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-4",
+    "volume": 139.8568,
+    "heures": 8.6232
+  },
+  {
+    "ucOperateur": "5be6f8b63be05895a014ffb9",
+    "llOperateur": "Abbott Johns",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-4",
+    "volume": 464.9744,
+    "heures": 8.5779
+  },
+  {
+    "ucOperateur": "5be6f8b616b2e1e20179ab12",
+    "llOperateur": "Haley Langley",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-1",
+    "volume": 412.4039,
+    "heures": 7.0624
+  },
+  {
+    "ucOperateur": "5be6f8b6651abc6ec4c6aeec",
+    "llOperateur": "Katharine Lyons",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-3",
+    "volume": 235.5476,
+    "heures": 6.1646
+  },
+  {
+    "ucOperateur": "5be6f8b687a9f153b6da2533",
+    "llOperateur": "Wagner Moses",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 394.7546,
+    "heures": 6.9116
+  },
+  {
+    "ucOperateur": "5be6f8b608ed660fe72e8b73",
+    "llOperateur": "Rivas Wright",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-3",
+    "volume": 278.9042,
+    "heures": 8.7339
+  },
+  {
+    "ucOperateur": "5be6f8b6585b61c79ec10d11",
+    "llOperateur": "Dickerson Greene",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 123.0298,
+    "heures": 7.2636
+  },
+  {
+    "ucOperateur": "5be6f8b627948a6f31f86d3f",
+    "llOperateur": "Wells Sellers",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-2",
+    "volume": 120.7356,
+    "heures": 8.7377
+  },
+  {
+    "ucOperateur": "5be6f8b65bf2db04ab341695",
+    "llOperateur": "Harvey Scott",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 322.3513,
+    "heures": 7.925
+  },
+  {
+    "ucOperateur": "5be6f8b638e1b060609d8bc8",
+    "llOperateur": "Katina Nash",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 389.8524,
+    "heures": 7.2188
+  },
+  {
+    "ucOperateur": "5be6f8b652933cb8e8650bd4",
+    "llOperateur": "Francesca Delacruz",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 65.6089,
+    "heures": 6.9193
+  },
+  {
+    "ucOperateur": "5be6f8b649123df294cce013",
+    "llOperateur": "Nadine Pierce",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 96.6816,
+    "heures": 8.7964
+  },
+  {
+    "ucOperateur": "5be6f8b6040b6a8361be2573",
+    "llOperateur": "Garner Stephenson",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 219.4884,
+    "heures": 8.0668
+  },
+  {
+    "ucOperateur": "5be6f8b6fa8fed400cf6e366",
+    "llOperateur": "Georgina Myers",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 390.0955,
+    "heures": 6.5611
+  },
+  {
+    "ucOperateur": "5be6f8b60cee2d0c890f5e34",
+    "llOperateur": "Essie Hayden",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-4",
+    "volume": 216.4877,
+    "heures": 8.4927
+  },
+  {
+    "ucOperateur": "5be6f8b609735304735b1e7a",
+    "llOperateur": "Justine Hobbs",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 434.4443,
+    "heures": 8.6025
+  },
+  {
+    "ucOperateur": "5be6f8b66c5306eae356775c",
+    "llOperateur": "Jan Hicks",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 203.2286,
+    "heures": 8.8656
+  },
+  {
+    "ucOperateur": "5be6f8b6b5ffb3225a82c3a3",
+    "llOperateur": "Nancy Ward",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 215.2696,
+    "heures": 8.3821
+  },
+  {
+    "ucOperateur": "5be6f8b6c806ae1ea8742255",
+    "llOperateur": "Villarreal Foreman",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 23.5636,
+    "heures": 7.9616
+  },
+  {
+    "ucOperateur": "5be6f8b654363f26cc35288a",
+    "llOperateur": "Marquez Burks",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 411.0583,
+    "heures": 8.3067
+  },
+  {
+    "ucOperateur": "5be6f8b6892fec18361fab39",
+    "llOperateur": "Sybil Ruiz",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-3",
+    "volume": 183.7577,
+    "heures": 6.6459
+  },
+  {
+    "ucOperateur": "5be6f8b6c35a2b1dfba7af70",
+    "llOperateur": "Bartlett Ryan",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 488.6482,
+    "heures": 7.6995
+  },
+  {
+    "ucOperateur": "5be6f8b64755b431c8fb8ca5",
+    "llOperateur": "Stephenson Rush",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-4",
+    "volume": 302.9839,
+    "heures": 8.9215
+  },
+  {
+    "ucOperateur": "5be6f8b65aac1cff6bd8e200",
+    "llOperateur": "Head Alston",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 493.2743,
+    "heures": 7.9651
+  },
+  {
+    "ucOperateur": "5be6f8b6122411d7162da164",
+    "llOperateur": "Jones Rasmussen",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-1",
+    "volume": 249.2706,
+    "heures": 6.561
+  },
+  {
+    "ucOperateur": "5be6f8b6d539a8942dc98f03",
+    "llOperateur": "Johnston Lewis",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 106.1759,
+    "heures": 6.5918
+  },
+  {
+    "ucOperateur": "5be6f8b6fe054e845bbc9ce4",
+    "llOperateur": "Bertha Mathis",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 359.6522,
+    "heures": 8.001
+  },
+  {
+    "ucOperateur": "5be6f8b63a7000a32f3eb746",
+    "llOperateur": "Faith Giles",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 349.8485,
+    "heures": 8.1226
+  },
+  {
+    "ucOperateur": "5be6f8b61b7b6a0561ec1167",
+    "llOperateur": "Tamika Harper",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 275.5373,
+    "heures": 7.8578
+  },
+  {
+    "ucOperateur": "5be6f8b6693a464d57b7bde5",
+    "llOperateur": "Carrie George",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-3",
+    "volume": 181.3536,
+    "heures": 7.4191
+  },
+  {
+    "ucOperateur": "5be6f8b65daa7cac9b881fb7",
+    "llOperateur": "Mercer Wagner",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 412.702,
+    "heures": 7.9158
+  },
+  {
+    "ucOperateur": "5be6f8b6ba31d83b719c23a0",
+    "llOperateur": "Atkinson Key",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 409.6594,
+    "heures": 8.8781
+  },
+  {
+    "ucOperateur": "5be6f8b6ee78fbb7be5439cc",
+    "llOperateur": "Silva Erickson",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-4",
+    "volume": 98.2678,
+    "heures": 7.531
+  },
+  {
+    "ucOperateur": "5be6f8b6c90e7529684e24fb",
+    "llOperateur": "Therese Washington",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 186.3674,
+    "heures": 6.5827
+  },
+  {
+    "ucOperateur": "5be6f8b646ef4fe08a855789",
+    "llOperateur": "Michelle Brock",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-3",
+    "volume": 404.1094,
+    "heures": 7.131
+  },
+  {
+    "ucOperateur": "5be6f8b6802f6b5c69026f28",
+    "llOperateur": "Watkins Carey",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-1",
+    "volume": 31.7179,
+    "heures": 7.131
+  },
+  {
+    "ucOperateur": "5be6f8b6d3823b3c3d429d0a",
+    "llOperateur": "Roberta Holden",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 42.0205,
+    "heures": 7.5004
+  },
+  {
+    "ucOperateur": "5be6f8b695e4e9f913ba5497",
+    "llOperateur": "Leslie Gay",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-3",
+    "volume": 23.1489,
+    "heures": 7.2525
+  },
+  {
+    "ucOperateur": "5be6f8b67854fadf297e431f",
+    "llOperateur": "Nita Flores",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-1",
+    "volume": 366.6955,
+    "heures": 6.107
+  },
+  {
+    "ucOperateur": "5be6f8b67b5554e174f29942",
+    "llOperateur": "Kim Schwartz",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 351.3352,
+    "heures": 8.9315
+  },
+  {
+    "ucOperateur": "5be6f8b6f2a3c78a73e78422",
+    "llOperateur": "Maritza Mitchell",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 361.6037,
+    "heures": 8.6499
+  },
+  {
+    "ucOperateur": "5be6f8b63a2e32a33c2932b7",
+    "llOperateur": "Rodgers Snyder",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-2",
+    "volume": 134.4259,
+    "heures": 7.0347
+  },
+  {
+    "ucOperateur": "5be6f8b66bf6fc388a56f8a5",
+    "llOperateur": "Alicia Bowman",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 348.4007,
+    "heures": 8.5446
+  },
+  {
+    "ucOperateur": "5be6f8b6445803ca0b0eed55",
+    "llOperateur": "Perry Frazier",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 133.0354,
+    "heures": 8.5188
+  },
+  {
+    "ucOperateur": "5be6f8b6e4761ff20dafe356",
+    "llOperateur": "Banks Bell",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 218.1184,
+    "heures": 7.1292
+  },
+  {
+    "ucOperateur": "5be6f8b67f31e0b1c537a441",
+    "llOperateur": "Rosales Hess",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-2",
+    "volume": 21.5033,
+    "heures": 7.5524
+  },
+  {
+    "ucOperateur": "5be6f8b608e6de480387a5af",
+    "llOperateur": "Bettie Randall",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 147.2789,
+    "heures": 8.0285
+  },
+  {
+    "ucOperateur": "5be6f8b6403ca2d7928a1379",
+    "llOperateur": "Ayala Dudley",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-1",
+    "volume": 149.0292,
+    "heures": 6.7984
+  },
+  {
+    "ucOperateur": "5be6f8b6c35801beac37fb14",
+    "llOperateur": "Munoz Shaw",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 231.777,
+    "heures": 8.7531
+  },
+  {
+    "ucOperateur": "5be6f8b657508287ba8752b6",
+    "llOperateur": "Maynard Martinez",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-3",
+    "volume": 125.1525,
+    "heures": 8.0798
+  },
+  {
+    "ucOperateur": "5be6f8b6ad694a0d619104b8",
+    "llOperateur": "Walker Nieves",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 499.0613,
+    "heures": 7.8179
+  },
+  {
+    "ucOperateur": "5be6f8b65ba8a6ce04cb26d1",
+    "llOperateur": "Valencia Mccullough",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 221.1087,
+    "heures": 7.0473
+  },
+  {
+    "ucOperateur": "5be6f8b603537fae1136421b",
+    "llOperateur": "Christy Spence",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 307.2598,
+    "heures": 6.6808
+  },
+  {
+    "ucOperateur": "5be6f8b64d9d6a0423cb8ed2",
+    "llOperateur": "Marcella Sargent",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 60.4218,
+    "heures": 7.3035
+  },
+  {
+    "ucOperateur": "5be6f8b62bbace2626f7ff46",
+    "llOperateur": "Leon Knight",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 104.7981,
+    "heures": 8.782
+  },
+  {
+    "ucOperateur": "5be6f8b6653a9475bdd80530",
+    "llOperateur": "Leblanc Collins",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 189.2391,
+    "heures": 6.5967
+  },
+  {
+    "ucOperateur": "5be6f8b6c3cdc06a4b1ed9e6",
+    "llOperateur": "Goldie Allison",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 90.4222,
+    "heures": 8.617
+  },
+  {
+    "ucOperateur": "5be6f8b69bac7f6bb2c75fe1",
+    "llOperateur": "Fischer Holman",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 24.184,
+    "heures": 6.8092
+  },
+  {
+    "ucOperateur": "5be6f8b6e2a89f9a4f0e8622",
+    "llOperateur": "Parsons Duffy",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 233.0307,
+    "heures": 7.9411
+  },
+  {
+    "ucOperateur": "5be6f8b62a3621d2899e96e0",
+    "llOperateur": "Pennington Ford",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 130.3721,
+    "heures": 7.0245
+  },
+  {
+    "ucOperateur": "5be6f8b6269bfcc3b1f00720",
+    "llOperateur": "Noble Irwin",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 465.5964,
+    "heures": 8.0135
+  },
+  {
+    "ucOperateur": "5be6f8b6fbda719dc9a6229a",
+    "llOperateur": "Morris Olson",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 451.1454,
+    "heures": 6.7281
+  },
+  {
+    "ucOperateur": "5be6f8b622f75616124e9b3f",
+    "llOperateur": "Marcie Case",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-3",
+    "volume": 441.9113,
+    "heures": 8.3679
+  },
+  {
+    "ucOperateur": "5be6f8b62109125a8e4a759b",
+    "llOperateur": "Lee Acosta",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 446.0998,
+    "heures": 8.0519
+  },
+  {
+    "ucOperateur": "5be6f8b64cdb3b5c3f4270cd",
+    "llOperateur": "Oneal Lee",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 201.3935,
+    "heures": 8.9368
+  },
+  {
+    "ucOperateur": "5be6f8b67b6974946d2f70c5",
+    "llOperateur": "Ebony Sutton",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 103.0048,
+    "heures": 7.1401
+  },
+  {
+    "ucOperateur": "5be6f8b641be493a0e829c8c",
+    "llOperateur": "Solomon Golden",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 60.7001,
+    "heures": 6.8558
+  },
+  {
+    "ucOperateur": "5be6f8b643ede8d334fcaf14",
+    "llOperateur": "Adriana Kirby",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 438.8158,
+    "heures": 7.04
+  },
+  {
+    "ucOperateur": "5be6f8b68a9bfe26d3844f95",
+    "llOperateur": "Christa Knapp",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-2",
+    "volume": 204.9865,
+    "heures": 8.6543
+  },
+  {
+    "ucOperateur": "5be6f8b6be53265346adb8f2",
+    "llOperateur": "Lynette Dale",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-1",
+    "volume": 88.1249,
+    "heures": 8.2305
+  },
+  {
+    "ucOperateur": "5be6f8b6f2c5c5f5fe4f88cb",
+    "llOperateur": "Dawn Sykes",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-4",
+    "volume": 400.5379,
+    "heures": 7.2045
+  },
+  {
+    "ucOperateur": "5be6f8b6430125b4603e08f4",
+    "llOperateur": "Houston Riddle",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 375.9844,
+    "heures": 8.6603
+  },
+  {
+    "ucOperateur": "5be6f8b625956e4283e0161a",
+    "llOperateur": "Cherry Rice",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 433.26,
+    "heures": 8.4041
+  },
+  {
+    "ucOperateur": "5be6f8b60806210ab88d6fe1",
+    "llOperateur": "Willie Griffith",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 246.9552,
+    "heures": 8.7685
+  },
+  {
+    "ucOperateur": "5be6f8b63f7298d596c7b788",
+    "llOperateur": "Ratliff Graham",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 77.8776,
+    "heures": 8.5104
+  },
+  {
+    "ucOperateur": "5be6f8b638d2bda786b7092e",
+    "llOperateur": "Ruiz Manning",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-1",
+    "volume": 166.9871,
+    "heures": 6.4298
+  },
+  {
+    "ucOperateur": "5be6f8b6e57dbeed8524833e",
+    "llOperateur": "Esther Vinson",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-4",
+    "volume": 212.9435,
+    "heures": 6.2956
+  },
+  {
+    "ucOperateur": "5be6f8b682f1fb5ce5706c6b",
+    "llOperateur": "Socorro Acevedo",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-4",
+    "volume": 53.778,
+    "heures": 6.2301
+  },
+  {
+    "ucOperateur": "5be6f8b6a0ba6bdba86bf864",
+    "llOperateur": "Dana Kemp",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-3",
+    "volume": 278.6081,
+    "heures": 7.761
+  },
+  {
+    "ucOperateur": "5be6f8b62257801276b312ef",
+    "llOperateur": "Mccall Mccoy",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-4",
+    "volume": 418.1924,
+    "heures": 7.4892
+  },
+  {
+    "ucOperateur": "5be6f8b6923065c872a6f367",
+    "llOperateur": "Joyner Baker",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 184.1914,
+    "heures": 7.7715
+  },
+  {
+    "ucOperateur": "5be6f8b6242bf3d230ba34c9",
+    "llOperateur": "Ladonna Peck",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-1",
+    "volume": 50.0868,
+    "heures": 7.0691
+  },
+  {
+    "ucOperateur": "5be6f8b6a5e0e9aac7fc6567",
+    "llOperateur": "Davidson Wheeler",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-2",
+    "volume": 328.7259,
+    "heures": 8.9376
+  },
+  {
+    "ucOperateur": "5be6f8b6c864175393f38a02",
+    "llOperateur": "Andrews Boyd",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-3",
+    "volume": 407.7356,
+    "heures": 7.7197
+  },
+  {
+    "ucOperateur": "5be6f8b63fc7a7507c2f57f7",
+    "llOperateur": "Price Gill",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 92.0428,
+    "heures": 8.1593
+  },
+  {
+    "ucOperateur": "5be6f8b6b9242841142c7e9d",
+    "llOperateur": "Kelley Burris",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 351.3598,
+    "heures": 7.4897
+  },
+  {
+    "ucOperateur": "5be6f8b664602032d651e051",
+    "llOperateur": "Bullock Dillon",
+    "ucShift": "Nuit",
+    "ucProcessus": "INBOUND-3",
+    "volume": 161.0809,
+    "heures": 8.5799
+  },
+  {
+    "ucOperateur": "5be6f8b6f0fd35eae7916ae8",
+    "llOperateur": "Dillon Estrada",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 337.5192,
+    "heures": 8.1464
+  },
+  {
+    "ucOperateur": "5be6f8b6407b696bfc98addf",
+    "llOperateur": "Hammond Rhodes",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 78.6487,
+    "heures": 6.0651
+  },
+  {
+    "ucOperateur": "5be6f8b6569b3eec70a8cada",
+    "llOperateur": "Olson Payne",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 27.6754,
+    "heures": 6.7655
+  },
+  {
+    "ucOperateur": "5be6f8b6c8b7461f7b08d3d9",
+    "llOperateur": "Claudine Oneil",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 221.2261,
+    "heures": 7.2445
+  },
+  {
+    "ucOperateur": "5be6f8b68cc67e7864a7cef0",
+    "llOperateur": "Casandra Rose",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 167.4793,
+    "heures": 6.1117
+  },
+  {
+    "ucOperateur": "5be6f8b6007d475669b3953d",
+    "llOperateur": "Shelton Velazquez",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 156.0672,
+    "heures": 8.1608
+  },
+  {
+    "ucOperateur": "5be6f8b6c44b16a63c8c909a",
+    "llOperateur": "Crosby Richards",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 445.8267,
+    "heures": 7.8479
+  },
+  {
+    "ucOperateur": "5be6f8b66b04568fb80197b6",
+    "llOperateur": "Soto Mcdonald",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 479.4776,
+    "heures": 6.9582
+  },
+  {
+    "ucOperateur": "5be6f8b6ea97f29843c503a8",
+    "llOperateur": "Edwina Marshall",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 113.071,
+    "heures": 6.5692
+  },
+  {
+    "ucOperateur": "5be6f8b6e4da5ad80d9f4557",
+    "llOperateur": "Rojas Park",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 372.1109,
+    "heures": 7.7579
+  },
+  {
+    "ucOperateur": "5be6f8b68fc98688ecfcef1a",
+    "llOperateur": "Carey Morgan",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 236.2997,
+    "heures": 8.4109
+  },
+  {
+    "ucOperateur": "5be6f8b66ffe49b9ed51b9f2",
+    "llOperateur": "Lowe Travis",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 123.2506,
+    "heures": 7.4803
+  },
+  {
+    "ucOperateur": "5be6f8b60d2577ff35e0da31",
+    "llOperateur": "Ballard Mcleod",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 498.8951,
+    "heures": 8.2736
+  },
+  {
+    "ucOperateur": "5be6f8b69d76556c3b15b509",
+    "llOperateur": "Simon Guerra",
+    "ucShift": "Nuit",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 157.7762,
+    "heures": 7.8266
+  },
+  {
+    "ucOperateur": "5be6f8b620c145415b3362bc",
+    "llOperateur": "Tania Saunders",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 414.409,
+    "heures": 7.5485
+  },
+  {
+    "ucOperateur": "5be6f8b6136714235eed8cb7",
+    "llOperateur": "Navarro Dalton",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 476.2686,
+    "heures": 6.6552
+  },
+  {
+    "ucOperateur": "5be6f8b6347603ac3803e8e6",
+    "llOperateur": "Polly Potter",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 43.9871,
+    "heures": 6.6087
+  },
+  {
+    "ucOperateur": "5be6f8b618f01f128531c39b",
+    "llOperateur": "Smith Buckner",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 235.5655,
+    "heures": 7.2591
+  },
+  {
+    "ucOperateur": "5be6f8b69c3ca223086a7a1d",
+    "llOperateur": "Mcknight Horton",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-1",
+    "volume": 78.4741,
+    "heures": 6.0705
+  },
+  {
+    "ucOperateur": "5be6f8b6f262d68f38684285",
+    "llOperateur": "Kaitlin Nguyen",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 164.5503,
+    "heures": 6.4835
+  },
+  {
+    "ucOperateur": "5be6f8b676e769dfaad98d77",
+    "llOperateur": "Burns Rivers",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 51.9489,
+    "heures": 8.0067
+  },
+  {
+    "ucOperateur": "5be6f8b6153ccdca3d0c1322",
+    "llOperateur": "Winifred Mueller",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-4",
+    "volume": 457.3465,
+    "heures": 6.7748
+  },
+  {
+    "ucOperateur": "5be6f8b62d7e82ef5febcfe6",
+    "llOperateur": "Guy Cohen",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-4",
+    "volume": 465.3686,
+    "heures": 7.2477
+  },
+  {
+    "ucOperateur": "5be6f8b6f06bf28003ca7047",
+    "llOperateur": "Gallegos Browning",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-1",
+    "volume": 98.2175,
+    "heures": 7.1312
+  },
+  {
+    "ucOperateur": "5be6f8b6f2e91e6be4a3fac5",
+    "llOperateur": "Casey Mclaughlin",
+    "ucShift": "Matin",
+    "ucProcessus": "INBOUND-2",
+    "volume": 476.4539,
+    "heures": 8.1375
+  },
+  {
+    "ucOperateur": "5be6f8b6c5b1472b402e8259",
+    "llOperateur": "Sonja Valdez",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-3",
+    "volume": 345.6506,
+    "heures": 8.7876
+  },
+  {
+    "ucOperateur": "5be6f8b6551a885d52a70b84",
+    "llOperateur": "Juana Farmer",
+    "ucShift": "Après midi",
+    "ucProcessus": "OUTBOUND-2",
+    "volume": 254.0476,
+    "heures": 8.637
+  },
+  {
+    "ucOperateur": "5be6f8b67d49998bf7826f9b",
+    "llOperateur": "Dyer Ratliff",
+    "ucShift": "Matin",
+    "ucProcessus": "OUTBOUND-1",
+    "volume": 329.83,
+    "heures": 6.7399
+  },
+  {
+    "ucOperateur": "5be6f8b6002fdd8eed69635d",
+    "llOperateur": "Cleo Nunez",
+    "ucShift": "Après midi",
+    "ucProcessus": "INBOUND-3",
+    "volume": 217.5444,
+    "heures": 6.8054
+  }
+]

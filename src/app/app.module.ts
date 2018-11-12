@@ -22,7 +22,7 @@ import { JwtInterceptor } from './auth/_helpers/jwt.interceptors';
     IonicModule.forRoot(),
     AppRoutingModule,
     ReactiveFormsModule,
-        HttpClientModule,
+    HttpClientModule,
   ],
   providers: [
     StatusBar,

@@ -1,0 +1,82 @@
+[   {
+        "ucIndicateur": "CDE",
+        "llIndicateur": "Commandes traitées",
+        "valeur": 3000,
+        "unite": "cde",
+        "ucProjet": "SQF",
+        "llProjet": "Saint Quentin Fallavier"
+    },
+    {
+        "ucIndicateur": "CDEP",
+        "llIndicateur": "Commandes prévues",
+        "valeur": 3100,
+        "unite": "cde",
+        "ucProjet": "SQF",
+        "llProjet": "Saint Quentin Fallavier"
+    },
+    {
+        "ucIndicateur": "TXE",
+        "llIndicateur": "Taux erreur",
+        "valeur": 5,
+        "unite": "%",
+        "ucProjet": "SQF",
+        "llProjet": "Saint Quentin Fallavier"
+    },
+    {
+        "ucIndicateur": "TXR",
+        "llIndicateur": "Taux rupture",
+        "valeur": 10,
+        "unite": "%",
+        "ucProjet": "SQF",
+        "llProjet": "Saint Quentin Fallavier"    
+    },
+    {
+        "ucIndicateur": "CA",
+        "llIndicateur": "Chiffre d'affaire",
+        "valeur": 140256,
+        "unite": "Euros",
+        "ucProjet": "SQF",
+        "llProjet": "Saint Quentin Fallavier"    
+    },
+    {
+        "ucIndicateur": "CDE",
+        "llIndicateur": "Commandes traitées",
+        "valeur": 4200,
+        "unite": "cde",
+        "ucProjet": "AUL",
+        "llProjet": "Aulnay"
+    },
+    {
+        "ucIndicateur": "CDEP",
+        "llIndicateur": "Commandes prévues",
+        "valeur": 4000,
+        "unite": "cde",
+        "ucProjet": "AUL",
+        "llProjet": "Aulnay"
+    },
+    {
+        "ucIndicateur": "TXE",
+        "llIndicateur": "Taux erreur",
+        "valeur": 10,
+        "unite": "%",
+        "ucProjet": "AUL",
+        "llProjet": "Aulnay"
+    },
+    {
+        "ucIndicateur": "TXR",
+        "llIndicateur": "Taux rupture",
+        "valeur": 15,
+        "unite": "%",
+        "ucProjet": "AUL",
+        "llProjet": "Aulnay"    
+    },
+    {
+        "ucIndicateur": "CA",
+        "llIndicateur": "Chiffre d'affaire",
+        "valeur": 200157,
+        "unite": "Euros",
+        "ucProjet": "AUL",
+        "llProjet": "Aulnay"    
+    }
+
+]

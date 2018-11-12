@@ -21,7 +21,8 @@ const routes: Routes = [
     canActivate: [AuthGuard]
   },
   { path: 'process', loadChildren: './process/process.module#ProcessPageModule' ,  canActivate: [AuthGuard]},
-  { path: 'detailprocess', loadChildren: './detailprocess/detailprocess.module#DetailprocessPageModule',  canActivate: [AuthGuard] }
+  { path: 'detailprocess', loadChildren: './detailprocess/detailprocess.module#DetailprocessPageModule',  canActivate: [AuthGuard] },
+  { path: 'indicateurs-multisite', loadChildren: './indicateurs-multisite/indicateurs-multisite.module#IndicateursMultisitePageModule' }
 ];
 
 @NgModule({

@@ -3,7 +3,7 @@ import { HttpClient} from '@angular/common/http';
 import { Observable, of } from 'rxjs';
 import { catchError, map, tap } from 'rxjs/operators';
 import { Process } from '../model/process';
-
+import * as moment from 'moment';
 @Injectable({
   providedIn: 'root'
 })
@@ -29,10 +29,14 @@ export class ProcessService {
      
   }
 
-  getProcess():Observable<Process[]>{
-    console.log(this.process);
+  getProcess(ucProjet:string,date:any):Observable<Process[]>{
+    console.log(' date'+date.format('L'));
     return of(this.process);
   }
- 
+  
+  getProcessDetail(ucProjet:string,ucProcessus:string,date:any):Observable<Process>{
+    let result = this.process.find(pro => pro.ucProcessus === ucProcessus);
+    return of(result);
+  }
 }
 

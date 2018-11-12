@@ -13,32 +13,17 @@
     display : flex;
     flex-flow: row;
   
-    /* Then we define how is distributed the remaining space */
-    justify-content: space-evenly;
 }
-.cellheader {
-    font-size: 2em;
-    color: black;
-    text-align: left;
-}
-.cellobjet {
-    font-size: 1em;
-    color: grey;
-    font-style: italic;
-    text-align: left;
 
-}
 .item {
     flex-grow: 1;
+   
 }
-.cell {
-    font-size: 1em;
-    color: black;
-    text-align: right;
-    font-weight: bold;
+
+
+
+//full width
+.swiper-slide {
+    display: block;
 }
-.red {
-    font-size: 1em;
-    color: red;
-    text-align: right;
-}
+

@@ -19,6 +19,11 @@ export class AppComponent {
       title: 'Activité',
       url: '/list',
       icon: 'list'
+    },
+    {
+      title: 'Indicateurs globaux',
+      url: '/indicateurs-multisite',
+      icon: 'podium'
     }
   ];
 

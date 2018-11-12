@@ -46,7 +46,42 @@
    
 }
 .red {
-    font-size: 1em;
-    color: red;
+    background-color: red;
+    text-align: center;
+}
+.lineOperateur{
+    font-size : 0.8em;
+}
+.data{
+    font-size : 1em;
     text-align: right;
+}
+.headerOperateurs{
+    color : grey;
+    font-size : 0.8em;
+}
+.divlist{
+    padding: 0px;
+    margin: 0px;
+}
+hr { 
+    display: block;
+    margin-top: 0.0em;
+    margin-bottom: 0.0em;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: grey;
+}
+.card-content-ios {
+    padding:5px;
+}
+.card-content-md {
+    padding:5px;
+}
+.sc-ion-card-md-h {
+    margin :0px;
+}
+
+.sc-ion-card-ios-h {
+    margin :0px;
 }

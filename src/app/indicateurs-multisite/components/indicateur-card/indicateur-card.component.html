@@ -1,0 +1,24 @@
+<ion-card-content>
+    <div *ngIf="indicateurs && indicateurs.length==1">
+    <ion-grid>
+      <ion-row>
+        <ion-col size="8">
+          <div class="item">
+            <p class="cellheader">{{indicateurs[0].llIndicateur}}</p>
+          </div>
+        </ion-col>
+        <ion-col>
+          <div *ngIf="indicateurs && indicateurs.length==1" class="item border-left">
+            <p [ngClass]="{'cell':true}">{{indicateurs[0].valeur}}</p>
+            <p class="cell">({{indicateurs[0].unite}}) </p>
+          </div>
+       </ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
+  <div *ngIf="indicateurs && indicateurs.length>=1">
+           <div class="item" (click)='onClick()'>
+              <p class="cellheader">{{indicateurs[0].llIndicateur}}</p>
+            </div>
+    </div>
+ </ion-card-content>

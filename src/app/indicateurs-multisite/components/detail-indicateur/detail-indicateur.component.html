@@ -1,0 +1,31 @@
+<ion-header>
+    <ion-toolbar *ngIf="indicateurs && indicateurs.length>0" color="primary">
+      <ion-buttons slot="start">
+        <ion-back-button></ion-back-button>
+      </ion-buttons>
+      <ion-title >{{indicateurs[0].llIndicateur}}</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+
+  <ion-content padding>
+<ion-list *ngIf="indicateurs && indicateurs.length>0">
+    <ion-grid>
+        <div *ngFor="let indicateur of indicateurs" class="divlist">
+           
+        <ion-row  class="lineIndicateur">
+            <ion-col size="6">
+              {{indicateur.llProjet}}
+            </ion-col>
+            <ion-col class="data">
+                {{indicateur.valeur| number:'1.1-1'}}
+            </ion-col>
+            <ion-col class="unite">
+                {{indicateur.unite}}
+            </ion-col>
+          </ion-row>
+          <hr>
+        </div>
+    </ion-grid>
+</ion-list>
+  </ion-content>

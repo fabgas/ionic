@@ -1,53 +1,75 @@
 <ion-header>
-    <ion-toolbar *ngIf="detailProcessus" color="primary">
-        <ion-buttons slot="start">
-          <ion-back-button></ion-back-button>
-        </ion-buttons>
-        <ion-title >{{detailProcessus.llProcessus}}</ion-title>
-    </ion-toolbar>
+  <ion-toolbar *ngIf="detailProcessus" color="primary">
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>{{detailProcessus.llProcessus}}</ion-title>
+  </ion-toolbar>
 </ion-header>
 
 <ion-content padding>
-    <ion-card >
-        <ion-card-content >
-          <div class="datas">
-            <div class="item">
-            <p class="cellheader">{{detailProcessus.heures}}</p>
-            <p class="cell">heures</p>
+  <ion-card>
+    <ion-card-content>
+      <div class="datas">
+        <div class="item">
+          <p class="cellheader">{{detailProcessus.heures}}</p>
+          <p class="cell">heures</p>
+        </div>
+        <div class="item">
+          <p class="cellheader">{{detailProcessus.volume}}</p>
+           <p class="cell">{{detailProcessus.ucObjet}}</p>
+        </div>
+        <div class="item">
+          <p [ngClass]="{'cellheader':true,'red':detailProcessus.prod<detailProcessus.prodcible}">{{detailProcessus.prod| number:'1.0-0'}}</p>
+          <p class="cell">obj/h</p>
+        </div>
+      </div>
+    </ion-card-content>
+  </ion-card>
+  <ion-segment (ionChange)="segmentChanged($event)">
+      <ion-segment-button  value="TOUS" checked>
+          Tous
+         </ion-segment-button>
+      <ion-segment-button *ngFor ="let shift of shifts" [value]="shift.ucShift">
+       {{shift.ucShift}}
+      </ion-segment-button>
+  </ion-segment>
+ <br/>
+  <ion-list>
+      <ion-grid>
+          <ion-row class="headerOperateurs" (click)='orderByName()'>
+            <ion-col size="6" >
+              Opérateurs({{countOperateurs}})
+            </ion-col>
+            <ion-col  class="data" (click)='orderByHeures()'>
+              H
+            </ion-col>
+            <ion-col  class="data" (click)='orderByVolume()'>
+              Vol
+            </ion-col>
+            <ion-col  class="data" (click)='orderByProd()'>
+              Prod
+            </ion-col>
+          </ion-row>
+          <div *ngFor="let ope of listeOperateurs" class="divlist">
+              <hr>
+          <ion-row  class="lineOperateur">
+              <ion-col size="6">
+                {{ope.llOperateur}}
+              </ion-col>
+              <ion-col class="data">
+                  {{ope.heures| number:'1.1-1'}}
+              </ion-col>
+              <ion-col class="data">
+                  {{ope.volume| number:'1.0-0'}}
+              </ion-col>
+              <ion-col class="data">
+                  {{ope.prod| number:'1.0-0'}}
+              </ion-col>
+              
+            </ion-row>
+            
           </div>
-          <div  class="item">
-              <p class="cellheader">{{detailProcessus.volume}}</p>
-              <p class="cell">{{detailProcessus.ucObjet}}</p>
-         </div>
-         <div  class="item">
-            <p class="cellheader">{{detailProcessus.prod| number:'1.0-0'}}</p>
-            <p class="cell">obj/h</p>
-          </div>
-        </div> 
-
-
-      </ion-card-content>
-    </ion-card>
-    <ion-segment  color="black">
-        <ion-segment-button value="standard">
-          Matin
-        </ion-segment-button>
-        <ion-segment-button value="hybrid">
-          Après - midi
-        </ion-segment-button>
-        <ion-segment-button value="sat">
-          Nuit
-        </ion-segment-button>
-      </ion-segment>
-      <ion-list>
-          <ion-list-header>
-            <ion-label>Opérateur</ion-label>
-            <ion-label>Heures</ion-label>
-          </ion-list-header>
-          <ion-item>Item 1</ion-item>
-          <ion-item>Item 2</ion-item>
-          <ion-item>Item 3</ion-item>
-          <ion-item>Item 4</ion-item>
-          <ion-item>Item 5</ion-item>
-        </ion-list>
+      </ion-grid>
+    </ion-list>
 </ion-content>
