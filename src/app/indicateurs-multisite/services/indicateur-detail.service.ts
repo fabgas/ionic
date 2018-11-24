@@ -11,7 +11,6 @@ export class IndicateurDetailService {
  
   // Service message commands
   indicateurs(indicateurs: IndicateurMultisite[]) {
-      console.log("event"+indicateurs);
     this.indicateurDetailSource.next(indicateurs);
   }
  

@@ -1,0 +1,16 @@
+<ion-header>
+    <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+        <ion-back-button></ion-back-button>
+      </ion-buttons>
+      <ion-title>Liste des responsables</ion-title>
+    </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+    <div *ngIf="responsables">
+        <ion-card *ngFor="let resp of responsables"  class="processcard">
+            <app-responsable-card [responsable]="resp"></app-responsable-card>
+        </ion-card>
+    </div>
+</ion-content>

@@ -15,6 +15,9 @@ export class IndicateursMultisitePage implements OnInit {
   indicateurs:IndicateurMultisite[][]; // [ucIndicateur][un par projet]
   indics:IndicateurMultisite[]; // [ucIndicateur][un par projet]
   show:boolean[];
+  slideOpts = {
+    effect: 'flip'
+  };
   @ViewChild('slides') slides: Slides;
   constructor(private indicateurMultisiteService:IndicateurMultisiteService) {
     this.dates.push(moment().startOf('day').subtract(4, "days"));

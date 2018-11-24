@@ -9,19 +9,37 @@
 
 
   <ion-content padding>
+
 <ion-list *ngIf="indicateurs && indicateurs.length>0">
     <ion-grid>
+        <ion-row  class="lineIndicateur">
+            <ion-col size="6">
+            Projet
+            </ion-col>
+            <ion-col class="data" size="2">
+               J-3
+            </ion-col>
+            <ion-col class="data" size="2" >
+               J-1
+            </ion-col>
+            <ion-col class="data" size="2">
+                J
+            </ion-col>
+          </ion-row>
         <div *ngFor="let indicateur of indicateurs" class="divlist">
            
         <ion-row  class="lineIndicateur">
             <ion-col size="6">
               {{indicateur.llProjet}}
             </ion-col>
-            <ion-col class="data">
+            <ion-col class="data" size="2">
                 {{indicateur.valeur| number:'1.1-1'}}
             </ion-col>
-            <ion-col class="unite">
-                {{indicateur.unite}}
+            <ion-col class="data" size="2" >
+                {{indicateur.valeur| number:'1.1-1'}}
+            </ion-col>
+            <ion-col class="data" size="2">
+                {{indicateur.valeur| number:'1.1-1'}}
             </ion-col>
           </ion-row>
           <hr>

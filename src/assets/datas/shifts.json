@@ -1,0 +1,14 @@
+[
+    {
+        "ucShift" : "MAT",
+        "llShift" : "Matin"
+    },
+    {
+        "ucShift" : "JOUR",
+        "llShift" : "Journée"
+    },
+    {
+        "ucShift" : "NUIT",
+        "llShift" : "Nuit"
+    }
+]

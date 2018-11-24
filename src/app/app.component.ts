@@ -18,7 +18,7 @@ export class AppComponent {
     {
       title: 'Activité',
       url: '/list',
-      icon: 'list'
+      icon: 'pulse'
     },
     {
       title: 'Indicateurs globaux',

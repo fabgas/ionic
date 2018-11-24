@@ -13,7 +13,6 @@ export class DetailIndicateurComponent implements OnInit, OnDestroy  {
   constructor(private indicateurDetailService:IndicateurDetailService) {
     this.subscription = this.indicateurDetailService.indicateurs$.subscribe(
       indics => {
-        console.log("ee");
         this.indicateurs = indics;
     });
    }

@@ -1,28 +1,34 @@
 <div *ngIf="processus">
-    <ion-card>
-     <div class='date'>
-        {{date|date:'shortDate'}}
-      </div>
-    </ion-card>
-    <ion-card *ngFor="let pro of processus" (click)="navigate(pro)" class="processcard">
-      <ion-card-content>
-        <ion-grid>
-          <ion-row>
-            <ion-col size="8">
-              <div class="item">
-                <p class="cellheader">{{pro.llProcessus}}</p>
-                <p class="cellobjet">{{pro.ucObjet}}</p>
-              </div>
-            </ion-col>
-            <ion-col>
-              <div class="item border-left">
-                <p [ngClass]="{'cell':true}">{{pro.heures}} h</p>
-                <p class="cell">{{pro.volume}} obj</p>
-                <p [ngClass]="{'cell':true,'red':pro.prod<pro.prodcible}">{{pro.prod| number:'1.0-0'}} obj/h</p>
-              </div>
-           </ion-col>
-          </ion-row>
-        </ion-grid>
-     </ion-card-content>
-    </ion-card>
-  </div>
+  <ion-card>
+    <div class='date'>
+      {{date|date:'shortDate'}}
+    </div>
+  </ion-card>
+  <ion-grid>
+    <ion-row>
+      <ion-col size="12" size-sm="4"  *ngFor="let pro of processus" >
+        <ion-card (click)="navigate(pro)" class="processcard">
+          <ion-card-content>
+            <ion-grid>
+              <ion-row>
+                <ion-col size="8">
+                  <div class="item">
+                    <p class="cellheader">{{pro.llProcessus}}</p>
+                    <p class="cellobjet">{{pro.ucObjet}}</p>
+                  </div>
+                </ion-col>
+                <ion-col>
+                  <div class="item border-left">
+                    <p [ngClass]="{'cell':true}">{{pro.heures}} h</p>
+                    <p class="cell">{{pro.volume}} obj</p>
+                    <p [ngClass]="{'cell':true,'red':pro.prod<pro.prodcible}">{{pro.prod| number:'1.0-0'}} obj/h</p>
+                  </div>
+                </ion-col>
+              </ion-row>
+            </ion-grid>
+          </ion-card-content>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</div>

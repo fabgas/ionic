@@ -22,7 +22,9 @@ export class IndicateurMultisiteService {
   constructor(private http: HttpClient) {
  }
 
-  
+  /**
+   * Retrouve les indicateurs multisite pour une date donnée
+   **/  
   getIndicateurMultisite(projets:string[],date:any):Observable<IndicateurMultisite[]>{
    
    return this.http.get<IndicateurMultisite[]>("/assets/datas/indicateurs.json")
@@ -31,7 +33,19 @@ export class IndicateurMultisiteService {
      tap(res => console.log(projets) ),
      map(res =>  _.filter(res,ind => {return projets.findIndex(proj=> ind.ucProjet===proj)>-1})));
     ;
-
   }
 
+  /**
+   * Retrouve les indicateurs multisite pour un intervalle de date
+   **/  
+  getIndicateurMultisiteDates(projets:string[],dateDebut:any,dateFin:any):Observable<IndicateurMultisite[]>{
+   
+    return this.http.get<IndicateurMultisite[]>("/assets/datas/indicateurs.json")
+    .pipe(
+      tap(res => console.log(res) ),
+      tap(res => console.log(projets) ),
+      map(res =>  _.filter(res,ind => {return projets.findIndex(proj=> ind.ucProjet===proj)>-1})));
+     ;
+   }
+ 
 }

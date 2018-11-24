@@ -1,0 +1,518 @@
+[
+    {
+      "ucResponsable": "6ffc6c0e-7796-4adb-84c7-03eb5f7631f0",
+      "llResponsable": "Cameron Morrison",
+      "operateurs": [
+        {
+          "ucOperateur": "69eb1e9b-8468-41aa-a9b1-9ab5523452dc",
+          "llOperateur": "Mccullough Lee"
+        },
+        {
+          "ucOperateur": "6b6223d4-6b95-4c43-b697-1edf24c7f1e5",
+          "llOperateur": "Rivers Hill"
+        },
+        {
+          "ucOperateur": "498dfe50-5fbd-46bf-bdc6-ee3b73bcf778",
+          "llOperateur": "Mathis Mcintyre"
+        },
+        {
+          "ucOperateur": "ee0d5e81-9533-4924-b47e-26783bc1415a",
+          "llOperateur": "Alfreda Wallace"
+        },
+        {
+          "ucOperateur": "ccfe83c5-efe2-4dd1-9ea7-96dc3f8f7524",
+          "llOperateur": "Faulkner Pugh"
+        },
+        {
+          "ucOperateur": "302b4f00-4037-4dea-827c-7a3fe06747bd",
+          "llOperateur": "Morgan Dawson"
+        },
+        {
+          "ucOperateur": "716bbfb9-a848-427e-9574-2955e03bb304",
+          "llOperateur": "Sutton Owens"
+        },
+        {
+          "ucOperateur": "e80c3caf-54d8-461e-b43f-0d5c83b8ebff",
+          "llOperateur": "Mcknight Oliver"
+        },
+        {
+          "ucOperateur": "4c62d583-c417-4213-896b-2e8e6b8c4f0a",
+          "llOperateur": "Nash Montgomery"
+        },
+        {
+          "ucOperateur": "9c193bae-9d6c-446e-aee8-6c6789d36275",
+          "llOperateur": "Vargas Garza"
+        },
+        {
+          "ucOperateur": "8e57b026-74fd-4e05-98bb-2f4ba26072aa",
+          "llOperateur": "Marilyn Walker"
+        },
+        {
+          "ucOperateur": "463e158a-cb3b-45fa-9d9c-2d39488edec9",
+          "llOperateur": "Casey Salazar"
+        },
+        {
+          "ucOperateur": "e95801d2-c0d5-4cf7-9a2a-b808e0a47f6a",
+          "llOperateur": "Melton Norton"
+        },
+        {
+          "ucOperateur": "281489f2-c406-4e58-830b-c7e9d79d0d99",
+          "llOperateur": "Gonzalez Preston"
+        },
+        {
+          "ucOperateur": "d80ab3b7-eaca-419d-a79a-80184b3fe611",
+          "llOperateur": "Richards Bishop"
+        },
+        {
+          "ucOperateur": "a6ffa20a-65fd-44c8-a963-b39b461287f5",
+          "llOperateur": "Duran Owen"
+        },
+        {
+          "ucOperateur": "e128ac88-5c0b-4c4e-956a-104767c3889f",
+          "llOperateur": "Mooney Koch"
+        },
+        {
+          "ucOperateur": "debd927c-73b7-4abf-96f1-24c8cde64957",
+          "llOperateur": "Shelia Alford"
+        },
+        {
+          "ucOperateur": "34a01b54-1b88-48f7-9b80-9ec9ff47c0eb",
+          "llOperateur": "Glenda Vance"
+        },
+        {
+          "ucOperateur": "46b4dd4b-c485-4c37-8151-d8e52956565e",
+          "llOperateur": "Shannon Pope"
+        },
+        {
+          "ucOperateur": "bff222ad-29f4-49aa-b6a4-868d147faf5e",
+          "llOperateur": "Stone Baker"
+        },
+        {
+          "ucOperateur": "a3eb7949-5b94-4f37-93c9-3af86d0971c1",
+          "llOperateur": "Lydia Everett"
+        },
+        {
+          "ucOperateur": "f523785a-2c2c-48f7-80ae-4dd1ef6342d4",
+          "llOperateur": "Kathrine Diaz"
+        },
+        {
+          "ucOperateur": "3651932e-6c7d-4725-b534-57032b6a1c85",
+          "llOperateur": "Whitley Mcfadden"
+        },
+        {
+          "ucOperateur": "e4285106-a0c5-45d5-bdeb-f970f8d34441",
+          "llOperateur": "Shirley Kinney"
+        },
+        {
+          "ucOperateur": "5c0b143c-46ea-4008-b6ff-55c957a1381f",
+          "llOperateur": "Michael Glass"
+        }
+      ]
+    },
+    {
+      "ucResponsable": "a4a495c0-1242-4555-af7d-bfd3fbe49cea",
+      "llResponsable": "Rochelle Green",
+      "operateurs": [
+        {
+          "ucOperateur": "6e680b18-22ab-4873-b841-6865327d6524",
+          "llOperateur": "Addie Brennan"
+        },
+        {
+          "ucOperateur": "e8a704f0-70a4-4583-96e1-7cfbbbe4d215",
+          "llOperateur": "Elnora Jenkins"
+        },
+        {
+          "ucOperateur": "e090790d-8b90-4fcc-ab44-bef4d3169da1",
+          "llOperateur": "Sandra Wilkins"
+        },
+        {
+          "ucOperateur": "71a37f7f-3be7-49b0-b940-894423b4b0f0",
+          "llOperateur": "Tammi Blankenship"
+        },
+        {
+          "ucOperateur": "3d063eb9-924e-433f-95f0-70884ef23c0c",
+          "llOperateur": "Debbie Merritt"
+        },
+        {
+          "ucOperateur": "181525be-344a-40c2-95fc-354eb9c10641",
+          "llOperateur": "Jerri Warren"
+        },
+        {
+          "ucOperateur": "1d7a64d8-f5ce-4a19-99dd-7ea47a42f84a",
+          "llOperateur": "Sweeney Burch"
+        },
+        {
+          "ucOperateur": "6353596c-2c62-451d-8f92-09f7b22ccc84",
+          "llOperateur": "Charlotte Cotton"
+        },
+        {
+          "ucOperateur": "4cadd9e3-d1d4-45e2-a484-8c3395e90297",
+          "llOperateur": "Kennedy Willis"
+        },
+        {
+          "ucOperateur": "573802a9-b7bb-4e05-b24c-b48ef8dd18f9",
+          "llOperateur": "Shepard Perkins"
+        },
+        {
+          "ucOperateur": "3eb7b16d-82c1-4c27-b55e-50524015a83d",
+          "llOperateur": "Berta Estes"
+        },
+        {
+          "ucOperateur": "ccc900a8-fc67-475a-a0a3-4eee2dd1380b",
+          "llOperateur": "Mccray Henry"
+        },
+        {
+          "ucOperateur": "d6e08598-cff9-4947-b6b4-e66e2004e7cc",
+          "llOperateur": "Herminia Barker"
+        },
+        {
+          "ucOperateur": "cf229817-92d4-4396-a0fb-0b28fe299fb8",
+          "llOperateur": "Pauline Lawrence"
+        },
+        {
+          "ucOperateur": "1061fecf-3efc-4b89-a95d-8ccdd7f6242d",
+          "llOperateur": "Ruby Turner"
+        },
+        {
+          "ucOperateur": "11c447eb-6f7b-4e70-963f-3b998fe38cad",
+          "llOperateur": "Mckay Salas"
+        },
+        {
+          "ucOperateur": "0ecad694-959e-4c48-b155-45819ca3a397",
+          "llOperateur": "Keith Mooney"
+        },
+        {
+          "ucOperateur": "5f5dd268-262b-4681-888f-4a300e7de730",
+          "llOperateur": "Guerra Solis"
+        },
+        {
+          "ucOperateur": "a1ff7ec0-bf78-4007-b507-5a9c74b5f9aa",
+          "llOperateur": "Lisa Bonner"
+        },
+        {
+          "ucOperateur": "b395fce9-2f12-42e9-9b9d-618c9b14c9bd",
+          "llOperateur": "Bettie Ruiz"
+        },
+        {
+          "ucOperateur": "35e01d46-a997-41d5-b2e3-275fe69667b2",
+          "llOperateur": "Witt Cummings"
+        },
+        {
+          "ucOperateur": "10fe4ff7-1270-469b-9c04-e234fd5f8366",
+          "llOperateur": "Georgette Villarreal"
+        },
+        {
+          "ucOperateur": "81632c44-f93f-4a5c-9ba5-f1a87f0910b2",
+          "llOperateur": "Mavis Lewis"
+        }
+      ]
+    },
+    {
+      "ucResponsable": "0c80762b-a6f4-42fd-8de7-0631f3eefdbc",
+      "llResponsable": "Collins Deleon",
+      "operateurs": [
+        {
+          "ucOperateur": "7ec93702-4643-4ed2-9a28-bc18237fc6e3",
+          "llOperateur": "Mcfadden Reid"
+        },
+        {
+          "ucOperateur": "ec6997fe-f7a4-4f75-a70d-06328f017bda",
+          "llOperateur": "Reva Bartlett"
+        },
+        {
+          "ucOperateur": "ffcf5a56-ebf3-4427-95b1-a5e5134de304",
+          "llOperateur": "Lidia Vazquez"
+        },
+        {
+          "ucOperateur": "399128e9-a73f-492a-aff2-5c0d9719b8a8",
+          "llOperateur": "Gwendolyn Morton"
+        },
+        {
+          "ucOperateur": "42515dc7-416e-424e-bf88-77a922ceca13",
+          "llOperateur": "Crawford Wise"
+        },
+        {
+          "ucOperateur": "5b89caf1-5d5e-4783-b8af-ad17b1cfb824",
+          "llOperateur": "Hodge Welch"
+        },
+        {
+          "ucOperateur": "01d25d47-c763-425b-971a-fab68d0943bb",
+          "llOperateur": "Franks Douglas"
+        },
+        {
+          "ucOperateur": "ff8a2a90-b1e2-4ab4-a030-267b9b68a351",
+          "llOperateur": "Hazel Beach"
+        },
+        {
+          "ucOperateur": "70f9eee6-7f20-4b93-bbee-63974426e3e6",
+          "llOperateur": "Carr Trujillo"
+        },
+        {
+          "ucOperateur": "8de9576b-0828-4d7d-8a47-8c4d3e71d143",
+          "llOperateur": "Amie Lambert"
+        },
+        {
+          "ucOperateur": "c6437ad2-f59b-4d12-845a-6e2ad95aecf8",
+          "llOperateur": "Bethany Ramirez"
+        },
+        {
+          "ucOperateur": "e05c5b84-292f-43cf-9a12-469cb8ab787a",
+          "llOperateur": "Chelsea Griffith"
+        },
+        {
+          "ucOperateur": "dbc6883d-0575-4d6c-8994-dc1c7b301697",
+          "llOperateur": "Corrine Stewart"
+        },
+        {
+          "ucOperateur": "55fb01cb-b403-4a60-8c0c-08b0e186b478",
+          "llOperateur": "Holt Shelton"
+        },
+        {
+          "ucOperateur": "13124f5a-dd83-409e-baf5-8c435bb977f4",
+          "llOperateur": "Cain Beasley"
+        },
+        {
+          "ucOperateur": "dc3b9346-b599-482b-a6ef-f0782253554c",
+          "llOperateur": "Woodard Short"
+        },
+        {
+          "ucOperateur": "256f1f8c-e892-4676-9e31-daf8a1160993",
+          "llOperateur": "Miranda James"
+        },
+        {
+          "ucOperateur": "dd8eb1e7-9516-4bd8-b6a2-17e43a3c1108",
+          "llOperateur": "Tamika Lamb"
+        },
+        {
+          "ucOperateur": "f3144547-200f-4cc7-b80e-c4b49ca709bc",
+          "llOperateur": "Kimberley Dickerson"
+        },
+        {
+          "ucOperateur": "d6f4a529-c892-456e-bd79-adb108ae6946",
+          "llOperateur": "Alma Marshall"
+        },
+        {
+          "ucOperateur": "4d4c4e1d-bf85-440d-86fa-51f47b34fcf1",
+          "llOperateur": "Hendrix Coffey"
+        },
+        {
+          "ucOperateur": "cebd811b-f7b2-4da5-adfe-6b1697e5b674",
+          "llOperateur": "Rose Montoya"
+        }
+      ]
+    },
+    {
+      "ucResponsable": "c6e15139-b471-4dcd-acbc-3bb1cc891fb3",
+      "llResponsable": "Earnestine Gilmore",
+      "operateurs": [
+        {
+          "ucOperateur": "ccf90882-7893-47da-b1bd-a5639fbc163f",
+          "llOperateur": "Phyllis Wall"
+        },
+        {
+          "ucOperateur": "22233fbe-8edd-4cae-837e-9deac921f609",
+          "llOperateur": "Hensley Good"
+        },
+        {
+          "ucOperateur": "6a903e47-4878-4ef7-94b3-93a1239ada0e",
+          "llOperateur": "Merle Hendrix"
+        },
+        {
+          "ucOperateur": "56a41fc9-2751-4c57-98ad-56c80db2db00",
+          "llOperateur": "Montgomery Rocha"
+        },
+        {
+          "ucOperateur": "79db2ba2-c1e9-4c9b-aa0b-40c774df1f9b",
+          "llOperateur": "Rivas Ryan"
+        },
+        {
+          "ucOperateur": "a5730dbc-1c36-4e7b-8e26-a24b12bd50f0",
+          "llOperateur": "Leanne Bauer"
+        },
+        {
+          "ucOperateur": "03dedace-7570-496d-b348-9dc159cf1b65",
+          "llOperateur": "Greene Clay"
+        },
+        {
+          "ucOperateur": "ee5c0d18-ffb3-4ec0-9417-589bd1e11441",
+          "llOperateur": "Olivia Cardenas"
+        },
+        {
+          "ucOperateur": "82da5ace-a265-4fba-b91a-05ad468470f9",
+          "llOperateur": "Wiggins Gregory"
+        },
+        {
+          "ucOperateur": "909cae26-ed9a-4250-9c29-9bfb5e4e5d90",
+          "llOperateur": "Celia Bond"
+        },
+        {
+          "ucOperateur": "0c8f4cc5-5584-4d86-a651-5c8185878dbe",
+          "llOperateur": "Amanda Frye"
+        },
+        {
+          "ucOperateur": "c42126f6-c335-4fca-9a78-19a86a373317",
+          "llOperateur": "Haley Blevins"
+        },
+        {
+          "ucOperateur": "b438eb8c-ef0f-4a04-b6bd-aa2b4b62a44c",
+          "llOperateur": "Eloise Case"
+        },
+        {
+          "ucOperateur": "17806992-d5d2-4011-91d4-420c6d1ddbaf",
+          "llOperateur": "Constance Watkins"
+        },
+        {
+          "ucOperateur": "b7a6f3a5-97df-490c-a85e-2d625071c3c1",
+          "llOperateur": "Rich Riggs"
+        },
+        {
+          "ucOperateur": "57ca27eb-35a5-434e-a56d-9d2b6c534bd9",
+          "llOperateur": "Sampson Nash"
+        },
+        {
+          "ucOperateur": "4e7d7911-339a-4fc4-8f9d-9ac1d602c4e7",
+          "llOperateur": "Mercado Knowles"
+        },
+        {
+          "ucOperateur": "101b641f-d8be-43f5-bbaa-dccc2cf76f77",
+          "llOperateur": "Eula Long"
+        },
+        {
+          "ucOperateur": "d2b7eafa-ee55-42f9-b232-9610c0fe74ae",
+          "llOperateur": "Rita Fowler"
+        },
+        {
+          "ucOperateur": "e9f005d0-a5c7-426a-847b-3c6a84dce1cf",
+          "llOperateur": "Lindsay Crane"
+        },
+        {
+          "ucOperateur": "180d5756-c7bd-413e-9c90-1b070ca84f09",
+          "llOperateur": "Cline Compton"
+        },
+        {
+          "ucOperateur": "7a249fc9-b9ec-440d-902f-e5822a6a4a3f",
+          "llOperateur": "Leticia Stone"
+        },
+        {
+          "ucOperateur": "f58188b3-a40a-4ae4-a582-18c6da4436d2",
+          "llOperateur": "Tyson Johns"
+        },
+        {
+          "ucOperateur": "b6e32e07-98e6-4105-bd38-ef65cd2ed0bd",
+          "llOperateur": "Lenore Farmer"
+        }
+      ]
+    },
+    {
+      "ucResponsable": "a5b41cb0-6a93-4181-a1ec-c10710f6a67a",
+      "llResponsable": "Alberta Workman",
+      "operateurs": [
+        {
+          "ucOperateur": "2e4630df-39ea-4a0c-99a1-513398af39de",
+          "llOperateur": "Davis Mccormick"
+        },
+        {
+          "ucOperateur": "fd269a3d-5d9e-470c-9c2c-ca94e12b980d",
+          "llOperateur": "Larson Lancaster"
+        },
+        {
+          "ucOperateur": "9e1db192-18c6-44cb-94e4-107e50f9ce96",
+          "llOperateur": "Margaret Mcdowell"
+        },
+        {
+          "ucOperateur": "c19e6d44-7911-42de-833d-40526dbd09fc",
+          "llOperateur": "Dominguez Yang"
+        },
+        {
+          "ucOperateur": "906753a8-f2eb-4ad8-abca-7ece8cd489c4",
+          "llOperateur": "Melinda Lucas"
+        },
+        {
+          "ucOperateur": "252803af-5f36-416c-b3b6-c922069f28f2",
+          "llOperateur": "Lawanda Franco"
+        },
+        {
+          "ucOperateur": "cc905369-54d2-4761-b3d7-93d45ada951a",
+          "llOperateur": "Bernard Carney"
+        },
+        {
+          "ucOperateur": "cc0f2f61-f308-4062-b31d-a34ca76df943",
+          "llOperateur": "Hood Flowers"
+        },
+        {
+          "ucOperateur": "613c5e4b-8889-4f45-a8fa-0b149c48a16d",
+          "llOperateur": "Mcconnell Christensen"
+        },
+        {
+          "ucOperateur": "1f5fd443-7654-4152-b0e1-85c7199ae1f6",
+          "llOperateur": "Joyner Summers"
+        },
+        {
+          "ucOperateur": "01836cfd-1e31-42b1-bc82-06a1c2c81071",
+          "llOperateur": "Dyer Sweeney"
+        },
+        {
+          "ucOperateur": "e1302f7e-4b47-422e-9875-d96e47cca3b6",
+          "llOperateur": "Paige Simon"
+        },
+        {
+          "ucOperateur": "48d714bc-1d78-4f26-826c-91c2d3863e55",
+          "llOperateur": "Velasquez Blanchard"
+        },
+        {
+          "ucOperateur": "c38693ca-e7c7-400d-81f0-b819db16c78b",
+          "llOperateur": "Price Olsen"
+        },
+        {
+          "ucOperateur": "6c5efb01-1732-4701-bf2b-4e37add3f995",
+          "llOperateur": "Viola Santos"
+        },
+        {
+          "ucOperateur": "25a5545a-48a8-4a7c-9ac2-b7d905049b1f",
+          "llOperateur": "Graham Neal"
+        },
+        {
+          "ucOperateur": "b65befda-dae1-4f78-b2ab-850ee5329e67",
+          "llOperateur": "Laura Barry"
+        },
+        {
+          "ucOperateur": "90260ca0-6266-40bf-bae4-7f727091085f",
+          "llOperateur": "Imogene Whitaker"
+        },
+        {
+          "ucOperateur": "93727b81-9c1d-49ac-b544-ccde4eca2f61",
+          "llOperateur": "Esmeralda Roberts"
+        },
+        {
+          "ucOperateur": "abbf88e0-ae4f-4c0e-aecc-93c629d8d264",
+          "llOperateur": "Lynnette Knight"
+        },
+        {
+          "ucOperateur": "fd358bc2-4d10-423d-b627-aaf96c52f5e1",
+          "llOperateur": "Smith Black"
+        },
+        {
+          "ucOperateur": "cb6ba2a9-1fd6-4bcf-aa14-4dfc58ec5d59",
+          "llOperateur": "Leonor Rodgers"
+        },
+        {
+          "ucOperateur": "58c12670-3f99-4110-b2dd-abb65b439b5a",
+          "llOperateur": "Washington Dickson"
+        }
+      ]
+    },
+    {
+      "ucResponsable": "5851dd40-5e15-4bae-8fdd-7524eb1d6aad",
+      "llResponsable": "Kris Stokes",
+      "operateurs": [
+        {
+          "ucOperateur": "defde0dd-e1c9-403c-be81-ee460a3d5fcf",
+          "llOperateur": "Weeks Morrow"
+        },
+        {
+          "ucOperateur": "3229f781-6db9-4f62-b538-41bd30cdad5c",
+          "llOperateur": "Lesley Middleton"
+        }
+      ]
+    }
+  ]

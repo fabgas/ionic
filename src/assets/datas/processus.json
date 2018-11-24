@@ -1,0 +1,26 @@
+[
+    {   
+        "ucProcessus": "OUT",
+        "llProcessus" : "Expedition",
+        "objets": [
+                    {"ucObjet": "colis","llObjet":"Colis préparé"}] 
+    },
+    {
+        "ucProcessus": "INB",
+        "llProcessus" : "Réception",
+        "objets": [
+                    {"ucObjet": "Palet","llObjet":"Palette"}
+        ]
+    },
+    {
+        "ucProcessus": "CAR",
+        "llProcessus" : "Cariste",
+        "objets": [
+                    {"ucObjet": "PaletGer","llObjet":"Palettes gerbées"}
+        ]
+    },
+    {
+        "ucProcessus": "ADM",
+        "llProcessus" : "Administratif"
+    }
+]
